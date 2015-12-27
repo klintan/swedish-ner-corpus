@@ -79820,8 +79820,6 @@ för 0
 posten  0
 .   0
 
-<-- we are here -->
-
 De  0
 flesta  0
 bedömare    0
