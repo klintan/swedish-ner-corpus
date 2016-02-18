@@ -70347,7 +70347,7 @@ Socialdemokraternas ORG
 etta    0
 i   0
 Stockholms  LOC
-stad    0
+stad    LOC
 frälst  0
 på  0
 graffiti    0
@@ -71027,8 +71027,8 @@ starka  0
 (   0
 7   0
 )   0
-The 0
-descendants 0
+The MISC
+descendants MISC
 9   0
 .   0
 
@@ -71640,7 +71640,7 @@ i   0
 ett 0
 brev    0
 till    0
-justitiedepartementet   0
+justitiedepartementet   ORG
 .   0
 
 Onsdagens   0
@@ -71683,7 +71683,7 @@ det 0
 går 0
 avgörs  0
 av  0
-Förbundsdagen   0
+Förbundsdagen   MISC
 nu  0
 i   0
 februari    0
@@ -72119,7 +72119,7 @@ ledande 0
 socialist   0
 .   0
 
-Statskontoret   0
+Statskontoret   ORG
 skriver 0
 bland   0
 annat   0
@@ -72197,7 +72197,7 @@ regimen 0
 själv   0
 regelmässigt    0
 kallades    0
-Paradiset   0
+Paradiset   MISC
 .   0
 
 Sammanlagt  0
@@ -72362,7 +72362,7 @@ yttre   0
 våld    0
 ,   0
 skriver 0
-polisen 0
+polisen ORG
 i   0
 ett 0
 pressmeddelande 0
@@ -72392,10 +72392,10 @@ kom 0
 nya 0
 singeln 0
 ”   0
-There   0
-will    0
-be  0
-anger   0
+There   MISC
+will    MISC
+be  MISC
+anger   MISC
 ”   0
 ,   0
 en  0
@@ -72417,7 +72417,7 @@ enligt  0
 Trafikverkets   ORG
 remissutgåva    0
 av  0
-Kapacitetsutredningen   0
+Kapacitetsutredningen   MISC
 .   0
 
 På  0
@@ -72817,7 +72817,7 @@ nästa   0
 vecka   0
 ska 0
 därför  0
-Kammarkollegiet 0
+Kammarkollegiet ORG
 granska 0
 Tieto   ORG
 för 0
@@ -72882,7 +72882,7 @@ kliva   0
 in  0
 om  0
 inte    0
-Läkemedelsförsäkringen  0
+Läkemedelsförsäkringen  MISC
 täckte  0
 skadorna    0
 .   0
@@ -73357,7 +73357,7 @@ Skicka  0
 ett 0
 mejl    0
 till    0
-spring@svd.se   0
+spring@svd.se   MISC
 !   0
 En  0
 dag 0
@@ -73992,9 +73992,9 @@ det 0
 
 Vi  0
 har 0
-polis   0
+polis   ORG
 ,   0
-räddningstjänst 0
+räddningstjänst MISC
 ,   0
 läkare  0
 och 0
@@ -74633,9 +74633,9 @@ kvar    0
 
 Cykel   0
 ,   0
-Tour    0
-de  0
-France  0
+Tour    MISC
+de  MISC
+France  MISC
 ,   0
 30  0
 juni-22 0
@@ -74779,7 +74779,7 @@ tillsättningar  0
 Armani  ORG
 Privée  ORG
 Oud ORG
-royal   0
+royal   ORG
 spelar  0
 i   0
 samma   0
@@ -74915,7 +74915,7 @@ Detta   0
 sedan   0
 regeringen  0
 gett    0
-Tullverket  0
+Tullverket  ORG
 direktiv    0
 att 0
 satsa   0
@@ -75023,7 +75023,7 @@ Den 0
 utvecklingen    0
 står    0
 inte    0
-Motormännen 0
+Motormännen ORG
 bakom   0
 .   0
 
@@ -75456,7 +75456,7 @@ allt    0
 fler    0
 .   0
 
-Läkemedelsförsäkringen  0
+Läkemedelsförsäkringen  MISC
 har 0
 bedömt  0
 att 0
@@ -75617,7 +75617,7 @@ för 0
 internationellt 0
 kulturutbyte    0
 hos 0
-Kulturrådet 0
+Kulturrådet ORG
 har 0
 en  0
 så  0
@@ -76077,7 +76077,7 @@ faror   0
 
 De  0
 ledande 0
-Europabörserna  0
+Europabörserna  MISC
 föll    0
 marginellt  0
 under   0
@@ -77144,9 +77144,9 @@ Blanca  PER
 Riestras    PER
 novell  0
 ”   0
-La  0
-noche   0
-sucks   0
+La  MISC
+noche   MISC
+sucks   MISC
 ”   0
 är  0
 kanske  0
@@ -77559,8 +77559,8 @@ vd  0
 Per PER
 Bengtsson   PER
 till    0
-Nyhetsbyrån 0
-Direkt  0
+Nyhetsbyrån ORG
+Direkt  ORG
 och 0
 avböjer 0
 att 0
@@ -78791,7 +78791,7 @@ betydelse   0
 .   0
 
 Slottet 0
-Karinhall   0
+Karinhall   MISC
 var 0
 döpt    0
 efter   0
@@ -79176,7 +79176,7 @@ det 0
 går 0
 .   0
 
-Åkeribarometern 0
+Åkeribarometern MISC
 bygger  0
 på  0
 enkäter 0
@@ -79936,7 +79936,7 @@ för 0
 skiva   0
 .   0
 
-Doder   0
+Doder   PER
 nämns   0
 i   0
 de  0
@@ -80435,15 +80435,15 @@ Air PER
 har 0
 beställt    0
 201 0
-Boeing  0
-737 0
-MAX 0
+Boeing  MISC
+737 MISC
+MAX MISC
 och 0
 29  0
 av  0
 nästa   0
 generations 0
-737-900ER   0
+737-900ER   MISC
 ,   0
 med 0
 rättigheter 0
@@ -80540,9 +80540,9 @@ vansinnet   0
 .   0
 
 Enligt  0
-polisen 0
+polisen ORG
 är  0
-Öresundsbron    0
+Öresundsbron    MISC
 inkörsporten    0
 för 0
 vapensmugglingen    0
@@ -80651,7 +80651,7 @@ lättsinne   0
 .   0
 
 Enligt  0
-Smittskyddsinstitutets  0
+Smittskyddsinstitutets  ORG
 Lisa    PER
 Brouwers    PER
 visar   0
@@ -80834,22 +80834,22 @@ vid 0
 ett 0
 möte    0
 i   0
-EU-parlamentet  0
+EU-parlamentet  ORG
 .   0
 
 (   0
 4   0
 )   0
-Mustasch    0
+Mustasch    MISC
 :   0
 ”   0
-Sounds  0
-like    0
-hell    0
-,   0
-looks   0
-like    0
-heaven  0
+Sounds  MISC
+like    MISC
+hell    MISC
+,   MISC
+looks   MISC
+like    MISC
+heaven  MISC
 ”   0
 8   0
 .   0
@@ -81103,8 +81103,8 @@ Johansson   PER
 ,   0
 instruktör  0
 vid 0
-Åre LOC
-lavincenter 0
+Åre ORG
+lavincenter ORG
 ,   0
 säger   0
 att 0
@@ -81147,8 +81147,8 @@ följa   0
 med 0
 under   0
 ett 0
-Stockholm   0
-Open    0
+Stockholm   MISC
+Open    MISC
 och 0
 hänga   0
 med 0
@@ -81223,7 +81223,7 @@ telefon 0
 med 0
 en  0
 tidigare    0
-Androidversion  0
+Androidversion  MISC
 får 0
 man 0
 vara    0
@@ -81269,8 +81269,8 @@ håller  0
 franska 0
 stumfilmen  0
 ”   0
-The 0
-artist  0
+The MISC
+artist  MISC
 ”   0
 som 0
 favorit 0
@@ -81649,8 +81649,8 @@ två 0
 matcher 0
 in  0
 i   0
-Serie   0
-A   0
+Serie   MISC
+A   MISC
 .   0
 
 Orderingången   0
@@ -81743,8 +81743,8 @@ Den 0
 brittiska   0
 komediserien    0
 ”   0
-The 0
-office  0
+The MISC
+office  MISC
 ”   0
 med 0
 Ricky   PER
@@ -81767,7 +81767,7 @@ var 0
 50  0
 –   0
 årsjubilerande  0
-Bakfickan   0
+Bakfickan   MISC
 ,   0
 Operakällarens  ORG
 lilla   0
@@ -81952,8 +81952,8 @@ dem 0
 i   0
 magen   0
 ,   0
-Skaraborgs  0
-tingsrätt   0
+Skaraborgs  ORG
+tingsrätt   ORG
 har 0
 nu  0
 dömt    0
@@ -82125,7 +82125,7 @@ den 0
 arabiska    0
 våren   0
 stod    0
-Al-Jazira   0
+Al-Jazira   ORG
 för 0
 den 0
 i   0
@@ -82550,8 +82550,8 @@ electronica 0
 dans-album  0
 ”   0
 med 0
-Body    0
-talk    0
+Body    MISC
+talk    MISC
 pt  0
 3   0
 ,   0
@@ -82837,7 +82837,7 @@ På  0
 försök  0
 sätter  0
 nu  0
-Trafikverket    0
+Trafikverket    ORG
 upp 0
 stolpar 0
 med 0
@@ -82874,8 +82874,8 @@ Williams    PER
 närvaro 0
 .   0
 
-Dow 0
-Jones   0
+Dow MISC
+Jones   MISC
 ligger  0
 nu  0
 på  0
@@ -82954,7 +82954,7 @@ till    0
 sjukhus 0
 ,   0
 uppger  0
-polisen 0
+polisen ORG
 .   0
 
 De  0
@@ -82974,7 +82974,7 @@ plan    0
 :   0
 att 0
 riva    0
-Mupparnas   0
+Mupparnas   MISC
 gamla   0
 teater  0
 och 0
@@ -83589,7 +83589,7 @@ Rae PER
 ska 0
 spela   0
 på  0
-Kulturhuset 0
+Kulturhuset ORG
 i   0
 Stockholm   LOC
 .   0
@@ -83692,7 +83692,7 @@ i   0
 bland   0
 annat   0
 loppet  0
-Tjejrännet  0
+Tjejrännet  MISC
 ,   0
 ca  0
 50  0
@@ -83705,7 +83705,7 @@ Sigtuna LOC
 och 0
 mål 0
 där 0
-Vikingarännet   0
+Vikingarännet   MISC
 har 0
 sin 0
 målplats    0
@@ -83994,9 +83994,9 @@ av  0
 charterbolagen  0
 Apollo  ORG
 ,   0
-Fritidsresor    0
+Fritidsresor    ORG
 och 0
-Solresor    0
+Solresor    ORG
 .   0
 
 Hur 0
@@ -84085,9 +84085,9 @@ för 0
 Marcus  PER
 Hellner PER
 i   0
-Tour    0
-de  0
-ski 0
+Tour    MISC
+de  MISC
+ski MISC
 .   0
 
 Var 0
@@ -84204,8 +84204,8 @@ Amster  PER
 Andra   0
 bidraget    0
 är  0
-Top 0
-cats    0
+Top MISC
+cats    MISC
 .   0
 
 Frågan  0
@@ -84394,7 +84394,7 @@ i   0
 sin 0
 bok 0
 ”   0
-Överlevaren 0
+Överlevaren MISC
 ”   0
 ,   0
 skriven 0
@@ -84439,7 +84439,7 @@ i   0
 mörkrummet  0
 .   0
 
-Kommissionen    0
+Kommissionen    ORG
 anser   0
 också   0
 att 0
@@ -84574,7 +84574,7 @@ en  0
 minskad 0
 produktion  0
 hos 0
-Posten  0
+Posten  ORG
 vilket  0
 bland   0
 annat   0
@@ -84594,7 +84594,7 @@ som 0
 nyligen 0
 skrällde    0
 i   0
-Melodifestivalen    0
+Melodifestivalen    MISC
 ,   0
 följer  0
 med 0
@@ -84676,7 +84676,7 @@ varandra    0
 .   0
 
 Enligt  0
-tingsrätten 0
+tingsrätten MISC
 är  0
 det 0
 klarlagt    0
@@ -84767,7 +84767,7 @@ Rydh    PER
 ,   0
 testledare  0
 vid 0
-Batteritestcentrum  0
+Batteritestcentrum  ORG
 i   0
 Nol LOC
 som 0
@@ -84945,7 +84945,7 @@ Ingvar  PER
 .   0
 
 Särskilt    0
-Stockholmsbörsens   0
+Stockholmsbörsens   MISC
 storbanker  0
 tog 0
 positivt    0
@@ -85050,7 +85050,7 @@ med 0
 de  0
 stora   0
 doserna 0
-Pandemrix   0
+Pandemrix   MISC
 som 0
 finns   0
 kvar    0
@@ -85103,7 +85103,7 @@ mer 0
 på  0
 .   0
 
-Socialjouren    0
+Socialjouren    ORG
 tillsammans 0
 med 0
 Malmö   ORG
@@ -85265,8 +85265,8 @@ figurerna   0
 ur  0
 de  0
 sex 0
-Star    0
-wars-filmerna   0
+Star    MISC
+wars-filmerna   MISC
 ,   0
 baserat 0
 på  0
@@ -85504,7 +85504,7 @@ berättelsen 0
 den 0
 invalidiserade  0
 ”   0
-Fiskarkungens   0
+Fiskarkungens   MISC
 ”   0
 sal 0
 och 0
@@ -85607,7 +85607,7 @@ poäng   0
 Förra   0
 året    0
 öppnade 0
-Apoteket    0
+Apoteket    ORG
 24  0
 nya 0
 apotek  0
@@ -85708,7 +85708,7 @@ scenen  0
 när 0
 pjäsen  0
 ”   0
-13dagsafton 0
+13dagsafton MISC
 ”   0
 har 0
 premiär 0
@@ -86052,7 +86052,7 @@ framtid 0
 Då  0
 ringer  0
 pappa   0
-Yemer   0
+Yemer   PER
 en  0
 kväll   0
 och 0
@@ -86151,8 +86151,8 @@ stormakterna    0
 .   0
 
 Föreningen  0
-Psykisk 0
-Hälsa   0
+Psykisk ORG
+Hälsa   ORG
 presenterar 0
 imorgon 0
 ,   0
@@ -86248,7 +86248,7 @@ såväl   0
 berörd  0
 familj  0
 som 0
-socialtjänstens 0
+socialtjänstens ORG
 arbete  0
 om  0
 bostadsbidraget 0
@@ -86332,7 +86332,7 @@ skada   0
 .   0
 
 Enligt  0
-Rikskriminalpolisen 0
+Rikskriminalpolisen ORG
 kommer  0
 många   0
 insmugglade 0
@@ -86340,7 +86340,7 @@ vapen   0
 till    0
 Sverige LOC
 från    0
-Balkanområdet   0
+Balkanområdet   LOC
 .   0
 
 Särskilt    0
@@ -86529,7 +86529,7 @@ inom    0
 mode    0
 .   0
 
-Regeringens 0
+Regeringens ORG
 förslag 0
 innebär 0
 att 0
@@ -86571,8 +86571,8 @@ en  0
 anställd    0
 vid 0
 det 0
-brittiska   0
-försvarsdepartementet   0
+brittiska   ORG
+försvarsdepartementet   ORG
 ,   0
 en  0
 polis   0
@@ -86659,7 +86659,7 @@ på  0
 kort    0
 tid 0
 riskerar    0
-Portsmouth  LOC
+Portsmouth  ORG
 ytterligare 0
 avdrag  0
 .   0
@@ -86693,10 +86693,10 @@ misstänkt   0
 är  0
 kända   0
 av  0
-polisen 0
+polisen ORG
 .   0
 
-Lina    0
+Lina    PER
 Ben PER
 Mhenni  PER
 skriver 0
@@ -86743,7 +86743,7 @@ spanska 0
 bönder  0
 tomater 0
 på  0
-EU-parlamentets 0
+EU-parlamentets ORG
 kontor  0
 i   0
 Madrid  LOC
@@ -86781,7 +86781,7 @@ dödade  0
 
 Resultaten  0
 i   0
-Melodifestivalen    0
+Melodifestivalen    MISC
 hittills    0
 visar   0
 tydligt 0
@@ -86905,7 +86905,7 @@ följer  0
 med 0
 på  0
 ”   0
-Badjävlar   0
+Badjävlar   MISC
 ”   0
 -   0
 turnén  0
@@ -87011,7 +87011,7 @@ säger   0
 Jonas   PER
 Bengtsson   PER
 på  0
-Trafikverkets   0
+Trafikverkets   ORG
 pressjour   0
 .   0
 
@@ -87158,11 +87158,11 @@ den 0
 nya 0
 tv-serien   0
 ”   0
-Pappas  0
-pengar  0
+Pappas  MISC
+pengar  MISC
 ”   0
 i   0
-Barnkanalen 0
+Barnkanalen MISC
 ,   0
 har 0
 tagit   0
@@ -87185,7 +87185,7 @@ mindre  0
 välskötta   0
 ekonomier   0
 i   0
-södra   0
+södra   LOC
 Europa  LOC
 tvingas 0
 ägna    0
@@ -87934,12 +87934,12 @@ eller   0
 fiendskap   0
 ,   0
 sade    0
-Kalam   0
-Khan    0
+Kalam   PER
+Khan    PER
 från    0
 den 0
 lokala  0
-polisen 0
+polisen ORG
 .   0
 
 –   0
@@ -88061,7 +88061,7 @@ tyske   0
 läkaren 0
 Karl    PER
 Max PER
-Einhaupl    ORG
+Einhaupl    PER
 .   0
 
 Om  0
@@ -88175,7 +88175,7 @@ gav 0
 vid 0
 handen  0
 att 0
-Swedbanks   0
+Swedbanks   ORG
 räntenetto  0
 skulle  0
 minska  0
@@ -88477,9 +88477,9 @@ Hans    0
 sista   0
 rockalbum   0
 var 0
-Memory  0
-almost  0
-full    0
+Memory  MISC
+almost  MISC
+full    MISC
 från    0
 2007    0
 .   0
@@ -88780,8 +88780,8 @@ de  0
 flygande    0
 finländarna 0
 är  0
-Svenska 0
-rallyt  0
+Svenska MISC
+rallyt  MISC
 favorittävlingen    0
 ,   0
 förutom 0
@@ -88828,7 +88828,7 @@ till    0
 efter   0
 35.08   0
 mot 0
-Brynäs  LOC
+Brynäs  ORG
 .   0
 
 Den 0
@@ -88884,7 +88884,7 @@ kan 0
 de  0
 ses 0
 på  0
-Zorn-museet 0
+Zorn-museet ORG
 i   0
 Mora    LOC
 ,   0
@@ -89327,7 +89327,7 @@ med 0
 sportdryck  0
 ,   0
 tidningen   0
-Vasalöparen 0
+Vasalöparen ORG
 och 0
 skidutrustingen 0
 såklart 0
@@ -89475,7 +89475,7 @@ hans    0
 hustru  0
 kommer  0
 från    0
-Kashmir PER
+Kashmir LOC
 .   0
 
 De  0
@@ -89573,7 +89573,7 @@ sedan   0
 
 Om  0
 det 0
-Ingves  0
+Ingves  PER
 ser 0
 framför 0
 sig 0
@@ -89666,7 +89666,7 @@ Foto    0
 privat  0
 .   0
 
-Praet   0
+Praet   PER
 tar 0
 över    0
 efter   0
@@ -89792,7 +89792,7 @@ stolpe  0
 i   0
 Bromma  LOC
 i   0
-västra  0
+västra  LOC
 Stockholm   LOC
 vid 0
 lunchtid    0
@@ -90170,8 +90170,8 @@ Karlstad    LOC
 
 Fotboll 0
 ,   0
-Champions   0
-league  0
+Champions   MISC
+league  MISC
 ,   0
 final   0
 ,   0
@@ -90273,8 +90273,8 @@ tillväxten  0
 ,   0
 enligt  0
 vd:n.   0
-Assa    PER
-Abloys  PER
+Assa    ORG
+Abloys  ORG*
 uttalade    0
 koncernmål  0
 är  0
@@ -90307,28 +90307,7 @@ igen    0
 i   0
 torsdags    0
 .   0
-
-Det 0
-låter   0
-lite    0
-magstarkt   0
-,   0
-och 0
-jag 0
-frågar  0
-om  0
-Benny   PER
-tror    0
-på  0
-berättelsen 0
-.   0
-
-Förmodligen 0
-har 0
-vi  0
-problemets  0
-kärna   0
-just    0
+bn
 här 0
 ;   0
 det 0
@@ -90741,8 +90720,8 @@ detta   0
 
 De  0
 (   0
-engelska    0
-förbundet   0
+engelska    ORG
+förbundet   ORG
 )   0
 vill    0
 bossa   0
@@ -91045,7 +91024,7 @@ några   0
 laviner 0
 .   0
 
-Regeringen  0
+Regeringen  ORG
 var 0
 steget  0
 före    0
@@ -91242,7 +91221,7 @@ tv  0
 .   0
 
 Men 0
-Zlatan-appen    0
+Zlatan-appen    MISC
 lever   0
 inte    0
 riktigt 0
@@ -91285,7 +91264,7 @@ klar    0
 för 0
 kvartsfinal 0
 i   0
-WTA-turneringen 0
+WTA-turneringen MISC
 i   0
 Brisbane    LOC
 .   0
@@ -91319,7 +91298,7 @@ sig 0
 för 0
 .   0
 
-Regeringens 0
+Regeringens ORG
 och 0
 Migrationsverkets   ORG
 bild    0
@@ -91526,7 +91505,7 @@ också   0
 en  0
 kartläggning    0
 från    0
-Socialstyrelsen 0
+Socialstyrelsen ORG
 som 0
 visar   0
 att 0
@@ -91554,8 +91533,8 @@ Nu  0
 växer   0
 kritiken    0
 mot 0
-Svenska 0
-Kraftnät    0
+Svenska ORG
+Kraftnät    ORG
 ,   0
 och 0
 generaldirektören   0
@@ -91673,7 +91652,7 @@ Utvecklingen    0
 på  0
 de  0
 ledande 0
-Europabörserna  0
+Europabörserna  MISC
 var 0
 blandad 0
 .   0
@@ -91897,14 +91876,14 @@ Rimpi   PER
 sångare 0
 i   0
 folkpopbandet   0
-Jar 0
+Jar MISC
 ?   0
 
 ?a  0
 .   0
 
 ”   0
-Handlingarna    0
+Handlingarna    MISC
 ”   0
 är  0
 en  0
