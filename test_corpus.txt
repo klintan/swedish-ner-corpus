@@ -44660,4 +44660,3 @@ av  0
 apelsiner   0
 .   0
 
-End
