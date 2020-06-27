@@ -32506,6 +32506,7 @@ posthemlighet   0
 rapporterar 0
 Metro   ORG
 .   0
+
 Mord    0
 som 0
 inträffat   0
@@ -32514,6 +32515,7 @@ Malmö   LOC
 sedan   0
 sommaren    0
 .   0
+
 –   0
 Det 0
 var 0
@@ -32543,6 +32545,7 @@ på  0
 en  0
 scen    0
 .   0
+
 Samtidigt   0
 fortsätter  0
 man 0
@@ -32551,6 +32554,7 @@ ge  0
 extrema 0
 summor  0
 .   0
+
 Men 0
 tvivlar 0
 på  0
@@ -32559,10 +32563,12 @@ han 0
 går 0
 vidare  0
 .   0
+
 Och 0
 så  0
 vidare  0
 .   0
+
 Den 0
 debatt  0
 som 0
@@ -32583,6 +32589,7 @@ i   0
 vanmaktens  0
 tecken  0
 .   0
+
 Kritiker    0
 talar   0
 om  0
@@ -32604,6 +32611,7 @@ att 0
 påverka 0
 valutgången 0
 .   0
+
 På  0
 Stockholmsbörsen    ORG
 var 0
@@ -32612,6 +32620,7 @@ en  0
 rapporttät  0
 dag 0
 .   0
+
 Anna    PER
 Ericsson    PER
 är  0
@@ -32632,6 +32641,7 @@ i   0
 tillräcklig 0
 utsträckning    0
 .   0
+
 För 0
 inte    0
 mer 0
@@ -32655,6 +32665,7 @@ drogkartellen   0
 Los ORG
 Zetas   ORG
 .   0
+
 I   0
 nuläget 0
 har 0
@@ -32676,12 +32687,14 @@ närmare 0
 miljoner    0
 kronor  0
 .   0
+
 Ricardo PER
 Sa  PER
 Pinto   PER
 tar 0
 över    0
 .   0
+
 Styrelsen   0
 föreslår    0
 en  0
@@ -32699,6 +32712,7 @@ kronor  0
 i   0
 fjol    0
 .   0
+
 Drygt   0
 30  0
 dog 0
@@ -32712,6 +32726,7 @@ andra   0
 underliggande   0
 sjukdomar   0
 .   0
+
 Originalfilmen  0
 handlar 0
 om  0
@@ -32725,6 +32740,7 @@ fanatiska   0
 hela    0
 högen   0
 .   0
+
 Han 0
 ska 0
 också   0
@@ -32739,6 +32755,7 @@ att 0
 enligt  0
 domen   0
 .   0
+
 För 0
 Sverige LOC
 spelar  0
@@ -32756,6 +32773,7 @@ och 0
 Mikael  PER
 Renberg PER
 .   0
+
 Enligt  0
 uppgift 0
 har 0
@@ -32770,6 +32788,7 @@ på  0
 svarta  0
 börsen  0
 .   0
+
 Detta   0
 markerar    0
 en  0
@@ -32785,12 +32804,14 @@ förhålla    0
 sig 0
 till    0
 .   0
+
 Massmedierna    0
 rapporterade    0
 flitigt 0
 och 0
 mycket  0
 .   0
+
 Förutom 0
 att 0
 Jan PER
@@ -32807,6 +32828,7 @@ diplomatkarriär 0
 bakom   0
 sig 0
 .   0
+
 Tre 0
 psykologer  0
 och 0
@@ -32834,6 +32856,7 @@ norska  ORG
 TV  ORG
 2   ORG
 .   0
+
 -   0
 Jag 0
 har 0
@@ -32845,6 +32868,7 @@ och 0
 hela    0
 ensemblen   0
 .   0
+
 Annars  0
 räknas  0
 liksom  0
@@ -32852,6 +32876,7 @@ inte    0
 det 0
 passet  0
 .   0
+
 Varför  0
 ?   0
 Det 0
@@ -32885,6 +32910,7 @@ i   0
 sitt    0
 parti   0
 .   0
+
 Det 0
 är  0
 ett 0
@@ -32908,6 +32934,7 @@ utvecklingsplan 0
 kommenterar 0
 bolaget 0
 .   0
+
 Omsättningen    0
 uppgick 0
 till    0
@@ -32925,6 +32952,7 @@ miljoner    0
 för 0
 helåret 0
 .   0
+
 En  0
 utdelning   0
 om  0
@@ -32940,6 +32968,7 @@ helåret 0
 1:85    0
 )   0
 .   0
+
 Det 0
 kommer  0
 först   0
@@ -32972,11 +33001,13 @@ kommer  0
 att 0
 öka 0
 .   0
+
 De  0
 är  0
 fem 0
 stycken 0
 .   0
+
 Men 0
 företaget   0
 vill    0
@@ -32985,6 +33016,7 @@ inte    0
 sin 0
 marknadsföring  0
 .   0
+
 Hans    0
 händer  0
 var 0
@@ -32996,6 +33028,7 @@ han 0
 till    0
 tidningen   0
 .   0
+
 Vi  0
 måste   0
 se  0
@@ -33012,6 +33045,7 @@ fast    0
 sade    0
 Wen PER
 .   0
+
 De  0
 har 0
 flytt   0
@@ -33042,6 +33076,7 @@ i   0
 spritdränkta    0
 bitar   0
 .   0
+
 Mest    0
 hypad   0
 inför   0
@@ -33062,6 +33097,7 @@ en  0
 sexlåt  0
 ”   0
 .   0
+
 Betyg   0
 :   0
 5   0
@@ -33087,6 +33123,7 @@ och 0
 dess    0
 företrädare 0
 .   0
+
 Mordet  0
 på  0
 10-åriga    0
@@ -33101,6 +33138,7 @@ tips    0
 från    0
 allmänheten 0
 .   0
+
 Styrelsen   0
 föreslår    0
 en  0
@@ -33126,6 +33164,7 @@ kronor  0
 per 0
 aktie   0
 .   0
+
 Alla    0
 album   0
 måste   0
@@ -33134,6 +33173,7 @@ granskas    0
 av  0
 censuren    0
 .   0
+
 Värmekuren  0
 i   0
 Sundbyberg  LOC
@@ -33145,6 +33185,7 @@ höll    0
 i   0
 sig 0
 .   0
+
 Josef   PER
 Skvorecky   PER
 skrev   0
@@ -33169,6 +33210,7 @@ publicerades    0
 först   0
 1958    0
 .   0
+
 Enligt  0
 Katedralsskolans    ORG
 rektor  0
@@ -33183,6 +33225,7 @@ som 0
 ganska  0
 oskyldig    0
 .   0
+
 Men 0
 att 0
 vi  0
@@ -33220,6 +33263,7 @@ som 0
 förvånade   0
 forskarna   0
 .   0
+
 De  0
 boende  0
 ska 0
@@ -33236,6 +33280,7 @@ P   0
 4   0
 Göteborg    LOC
 .   0
+
 Och 0
 det 0
 måste   0
@@ -33254,6 +33299,7 @@ på  0
 särskilda   0
 boenden 0
 .   0
+
 Då  0
 Catharina   PER
 Elmsäter-Svärd  PER
@@ -33281,6 +33327,7 @@ leder   0
 till    0
 Malmberget  LOC
 .   0
+
 Den 0
 här 0
 gången  0
@@ -33304,6 +33351,7 @@ utsättning  0
 av  0
 varg    0
 .   0
+
 Alla    0
 läkemedels  0
 har 0
@@ -33329,6 +33377,7 @@ och 0
 vaccinera   0
 sig 0
 .   0
+
 I   0
 deras   0
 budget  0
@@ -33358,6 +33407,7 @@ förslag 0
 om  0
 utbyggnader 0
 .   0
+
 Växlingen   0
 sker    0
 just    0
@@ -33390,6 +33440,7 @@ söderut 0
 enligt  0
 Hedberg PER
 .   0
+
 När 0
 Minna   PER
 flyttade    0
@@ -33402,6 +33453,7 @@ behov   0
 av  0
 renovering  0
 .   0
+
 Om  0
 projektet   0
 i   0
@@ -33433,6 +33485,7 @@ blev    0
 ingen   0
 kvalitet    0
 .   0
+
 Officiellt  0
 når 0
 det 0
@@ -33456,6 +33509,7 @@ en  0
 tidig   0
 morgon  0
 .   0
+
 Vi  0
 män 0
 har 0
@@ -33478,6 +33532,7 @@ sig 0
 från    0
 mängden 0
 .   0
+
 Socialbidragsutbetalningarna    0
 har 0
 ökat    0
@@ -33509,12 +33564,14 @@ för 0
 de  0
 många   0
 .   0
+
 –   0
 Det 0
 är  0
 helt    0
 galet   0
 .   0
+
 –   0
 Det 0
 fanns   0
@@ -33531,6 +33588,7 @@ sig 0
 borde   0
 dö  0
 .   0
+
 För 0
 ett 0
 lån 0
@@ -33550,6 +33608,7 @@ kronor  0
 per 0
 månad   0
 .   0
+
 Tack    0
 Minett  PER
 på  0
@@ -33557,6 +33616,7 @@ Resedrömmen MISC
 för 0
 tipset  0
 .   0
+
 –   0
 Det 0
 är  0
@@ -33574,6 +33634,7 @@ lån 0
 säger   0
 hon 0
 .   0
+
 I   0
 praktiken   0
 innebar 0
@@ -33587,12 +33648,14 @@ upp 0
 på  0
 nytt    0
 .   0
+
 Han 0
 kunde   0
 själv   0
 larma   0
 polisen 0
 .   0
+
 –   0
 Jag 0
 tycker  0
@@ -33604,12 +33667,14 @@ riktigt 0
 bra 0
 match   0
 .   0
+
 70  0
 bostadsinbrott  0
 sker    0
 varje   0
 vecka   0
 .   0
+
 Nasser  PER
 Al-Attiyah  PER
 har 0
@@ -33624,6 +33689,7 @@ world   ORG
 rally   ORG
 team    ORG
 .   0
+
 Men 0
 demokratin  0
 har 0
@@ -33637,11 +33703,13 @@ mot 0
 sina    0
 fiender 0
 .   0
+
 Utespelarna 0
 var 0
 inte    0
 snälla  0
 .   0
+
 –   0
 Trafikverket    ORG
 kommer  0
@@ -33657,6 +33725,7 @@ under   0
 nästa   0
 vecka   0
 .   0
+
 Folk    0
 förstår 0
 inte    0
@@ -33676,6 +33745,7 @@ vid 0
 Sahlgrenska ORG
 universitets-sjukhuset  ORG
 .   0
+
 De  0
 som 0
 reser   0
@@ -33704,6 +33774,7 @@ till    0
 de  0
 strejkvarslade  0
 .   0
+
 När 0
 en  0
 ny  0
@@ -33715,6 +33786,7 @@ man 0
 tydliga 0
 resultat    0
 .   0
+
 Han 0
 lägger  0
 nu  0
@@ -33735,6 +33807,7 @@ skoltrötta  0
 ”   0
 elever  0
 .   0
+
 Har 0
 frågat  0
 om  0
@@ -33752,6 +33825,7 @@ träffa  0
 en  0
 terapeut    0
 .   0
+
 Så  0
 om  0
 de  0
@@ -33774,6 +33848,7 @@ på  0
 Swedbank    ORG
 Sverige ORG
 .   0
+
 –   0
 Vi  0
 ligger  0
@@ -33800,6 +33875,7 @@ vinna   0
 sade    0
 reservmålvakten 0
 .   0
+
 När 0
 det 0
 deliriska   0
@@ -33816,6 +33892,7 @@ Anders  PER
 Behring PER
 Breivik PER
 .   0
+
 Leder   0
 all 0
 dokumentation   0
@@ -33854,6 +33931,7 @@ till    MISC
 elden   MISC
 "   0
 .   0
+
 Det 0
 var 0
 som 0
@@ -33873,6 +33951,7 @@ tvärtom 0
 vid 0
 lanseringen 0
 .   0
+
 Hittills    0
 har 0
 det 0
@@ -33901,6 +33980,7 @@ av  0
 gamla   0
 vägar   0
 .   0
+
 Årsstämman  0
 ,   0
 där 0
@@ -33913,6 +33993,7 @@ den 0
 2   0
 maj 0
 .   0
+
 Andra   0
 gåtor   0
 är  0
@@ -33920,6 +34001,7 @@ svårare 0
 att 0
 lösa    0
 .   0
+
 Det 0
 har 0
 betydelse   0
@@ -33936,6 +34018,7 @@ alltid  0
 så  0
 stor    0
 .   0
+
 Detta   0
 trots   0
 att 0
@@ -33958,6 +34041,7 @@ ansvarig    0
 för 0
 den 0
 .   0
+
 Det 0
 är  0
 en  0
@@ -33967,6 +34051,7 @@ säger   0
 Ulf PER
 Svahn   PER
 .   0
+
 Utifrån 0
 det 0
 som 0
@@ -33987,6 +34072,7 @@ tydligare   0
 på  0
 himlen  0
 .   0
+
 I   0
 efterdyningarna 0
 av  0
@@ -34022,6 +34108,7 @@ alla    0
 har 0
 släppts 0
 .   0
+
 Därför  0
 är  0
 polisens    0
@@ -34041,12 +34128,14 @@ för 0
 hockeyfesternas 0
 fortsättning    0
 .   0
+
 Fonden  0
 ska 0
 finansieras 0
 via 0
 bolagsskatten   0
 .   0
+
 Ulf PER
 Sempert PER
 ,   0
@@ -34072,11 +34161,13 @@ höra    0
 av  0
 sig 0
 .   0
+
 Då  0
 anföll  0
 djuret  0
 igen    0
 .   0
+
 Hon 0
 kallades    0
 inte    0
@@ -34087,6 +34178,7 @@ Voice   ORG
 utan    0
 anledning   0
 .   0
+
 Förebilder  0
 och 0
 nytänkare   0
@@ -34116,6 +34208,7 @@ bemöta  0
 dagens  0
 samhällsproblem 0
 .   0
+
 Centrala    0
 beslutsfattare  0
 i   0
@@ -34141,6 +34234,7 @@ på  0
 en  0
 akutmottagning  0
 .   0
+
 Det 0
 är  0
 bra 0
@@ -34157,6 +34251,7 @@ urartade    0
 säger   0
 hon 0
 .   0
+
 Vi  0
 vill    0
 skapa   0
@@ -34175,6 +34270,7 @@ för 0
 regionens   0
 invånare    0
 .   0
+
 –   0
 Film    0
 har 0
@@ -34182,6 +34278,7 @@ så  0
 många   0
 ord 0
 .   0
+
 Fast    0
 om  0
 man 0
@@ -34202,6 +34299,7 @@ delvis  0
 ett 0
 annat   0
 .   0
+
 Urban   PER
 Ahlin   PER
 hävdar  0
@@ -34219,6 +34317,7 @@ en  0
 allmän  0
 fråga   0
 .   0
+
 Skulle  0
 hon 0
 springa 0
@@ -34228,6 +34327,7 @@ väl 0
 död 0
 ner 0
 .   0
+
 Stefan  PER
 Löfven  PER
 tar 0
@@ -34248,6 +34348,7 @@ säger   0
 Christer    PER
 Isaksson    PER
 .   0
+
 Under   0
 90-talet    0
 var 0
@@ -34266,6 +34367,7 @@ och 0
 reformer    0
 genomfördes 0
 .   0
+
 Israel  LOC
 som 0
 den 0
@@ -34277,6 +34379,7 @@ särskilt    0
 stort   0
 ansvar  0
 .   0
+
 Att 0
 presidenten 0
 måste   0
@@ -34285,6 +34388,7 @@ svenska 0
 är  0
 självklart  0
 .   0
+
 En  0
 vinmeny 0
 till    0
@@ -34302,12 +34406,14 @@ med 0
 sina    0
 favoriter   0
 .   0
+
 Somliga 0
 arbetar 0
 för 0
 att 0
 leva    0
 .   0
+
 Vilka   0
 är  0
 urvalsprinciperna   0
@@ -34327,6 +34433,7 @@ att 0
 sätta   0
 in  0
 .   0
+
 För 0
 dessa   0
 familjer    0
@@ -34354,6 +34461,7 @@ med 0
 hög 0
 levnadsstandard 0
 .   0
+
 Statens 0
 inkomster   0
 är  0
@@ -34364,6 +34472,7 @@ utgifterna  0
 för 0
 stora   0
 .   0
+
 Brinnande   0
 eurokris    0
 till    0
@@ -34379,12 +34488,14 @@ väldigt 0
 väldigt 0
 länge   0
 .   0
+
 –   0
 Det 0
 vet 0
 jag 0
 inte    0
 .   0
+
 Tufft   0
 när 0
 den 0
@@ -34394,6 +34505,7 @@ handlar 0
 om  0
 sekunder    0
 .   0
+
 Titta   0
 på  0
 hans    0
@@ -34403,6 +34515,7 @@ vad 0
 han 0
 vunnit  0
 .   0
+
 Efter   0
 beslut  0
 av  0
@@ -34412,6 +34525,7 @@ skolböckerna    0
 skrivas 0
 om  0
 .   0
+
 För 0
 första  0
 gången  0
@@ -34443,15 +34557,18 @@ och 0
 procent 0
 män 0
 .   0
+
 En  0
 väckarklocka    0
 .   0
+
 Peabs   ORG
 börskurs    0
 sjönk   0
 0,7 0
 procent 0
 .   0
+
 Ändå    0
 har 0
 han 0
@@ -34463,6 +34580,7 @@ tidigare    0
 ,   0
 2004    0
 .   0
+
 Hon 0
 klassade    0
 dessutom    0
@@ -34473,6 +34591,7 @@ lindrigare  0
 vanlig  0
 säsongsinfluensa    0
 .   0
+
 Här 0
 finns   0
 andra   0
@@ -34481,6 +34600,7 @@ mycket  0
 bättre  0
 alternativ  0
 .   0
+
 Nina    PER
 Zanjani PER
 kommer  0
@@ -34492,6 +34612,7 @@ golvet  0
 Hej 0
 Niklas  PER
 .   0
+
 Om  0
 orsakerna   0
 till    0
@@ -34520,6 +34641,7 @@ torde   0
 vara    0
 klart   0
 .   0
+
 Fredagens   0
 justering   0
 av  0
@@ -34540,6 +34662,7 @@ går 0
 partiet 0
 längre  0
 .   0
+
 Han 0
 beskriver   0
 hur 0
@@ -34559,6 +34682,7 @@ inte    0
 räckte  0
 till    0
 .   0
+
 Tidigare    0
 i   0
 veckan  0
@@ -34574,6 +34698,7 @@ skidanläggning  0
 i   0
 Ischgl  LOC
 .   0
+
 Han 0
 ser 0
 medlemskapet    0
@@ -34588,6 +34713,7 @@ problem 0
 just    0
 nu  0
 .   0
+
 Vi  0
 skall   0
 vara    0
@@ -34609,6 +34735,7 @@ brushuvuden 0
 på  0
 stadsmiljötaburetten    0
 .   0
+
 Den 0
 var 0
 faktiskt    0
@@ -34641,6 +34768,7 @@ arbeta  0
 längre  0
 ”   0
 .   0
+
 Men 0
 helt    0
 främmande   0
@@ -34670,6 +34798,7 @@ i   0
 solenergibolaget    0
 Etrion  ORG
 .   0
+
 Men 0
 nu  0
 sker    0
@@ -34679,6 +34808,7 @@ mot 0
 mildare 0
 vinterväder 0
 .   0
+
 Föräldrar   0
 som 0
 vill    0
@@ -34720,6 +34850,7 @@ deras   0
 funktionsförmåga    0
 rejält  0
 .   0
+
 18-åringen  0
 fick    0
 ett 0
@@ -34741,12 +34872,14 @@ säger   0
 Cindy   PER
 Schönström-Larsson  PER
 .   0
+
 Jag 0
 lär 0
 mig 0
 hela    0
 tiden   0
 .   0
+
 Den 0
 stora   0
 besparingen 0
@@ -34766,6 +34899,7 @@ en  0
 miljon  0
 kronor  0
 .   0
+
 -   0
 Det 0
 brukar  0
@@ -34780,6 +34914,7 @@ vadslagningsexperten    0
 Johan   PER
 Elevant PER
 .   0
+
 -   0
 Aldrig  0
 tidigare    0
@@ -34798,6 +34933,7 @@ som 0
 under   0
 Strindbergsåret MISC
 .   0
+
 Jämför  0
 vi  0
 åldersgruppen   0
@@ -34827,6 +34963,7 @@ de  0
 yngre   0
 har 0
 .   0
+
 Utrikesminister 0
 Carl    PER
 Bildt   PER
@@ -34846,6 +34983,7 @@ tydligt 0
 i   0
 fallet  0
 .   0
+
 De  0
 har 0
 fungerat    0
@@ -34857,6 +34995,7 @@ satt    0
 igång   0
 någonting   0
 .   0
+
 USA LOC
 behöver 0
 stödet  0
@@ -34891,6 +35030,7 @@ den 0
 nya 0
 arabvärlden MISC
 .   0
+
 Första  0
 kvartalet   0
 2013    0
@@ -34912,6 +35052,7 @@ på  0
 2,2 0
 procent 0
 .   0
+
 Premiärminister 0
 Lucas   PER
 Papademos   PER
@@ -34934,6 +35075,7 @@ går 0
 i   0
 konkurs 0
 .   0
+
 Absolut 0
 !   0
 Listan  0
@@ -34947,6 +35089,7 @@ koldioxid   0
 per 0
 person  0
 .   0
+
 I   0
 dag 0
 är  0
@@ -34957,6 +35100,7 @@ på  0
 tre 0
 våningsplan 0
 .   0
+
 Enligt  0
 Stockholms  ORG
 Arkitektförening    ORG
@@ -34979,6 +35123,7 @@ finna   0
 sin 0
 form    0
 .   0
+
 Mellan  0
 noll    0
 och 0
@@ -34989,6 +35134,7 @@ minusgrader 0
 Långa   0
 tights  0
 .   0
+
 Av  0
 de  0
 åtta    0
@@ -35028,6 +35174,7 @@ valpar  0
 i   0
 vår 0
 .   0
+
 Att 0
 fler    0
 måste   0
@@ -35048,6 +35195,7 @@ att 0
 långtidsarbetslösheten  0
 ökar    0
 .   0
+
 Är  0
 man 0
 osäker  0
@@ -35073,6 +35221,7 @@ sig 0
 under   0
 loppet  0
 .   0
+
 De  0
 sista   0
 åren    0
@@ -35089,7 +35238,9 @@ en  0
 tilltagande 0
 depression  0
 .   0
+
 .   0
+
 Det 0
 finns   0
 forskning   0
@@ -35115,6 +35266,7 @@ med 0
 en  0
 produkt 0
 .   0
+
 Av  0
 de  0
 tillfrågade 0
@@ -35135,6 +35287,7 @@ sig 0
 i   0
 framtiden   0
 .   0
+
 Där 0
 hänger  0
 den 0
@@ -35171,6 +35324,7 @@ på  0
 brunt   0
 papper  0
 .   0
+
 Medier  0
 tillåts 0
 dock    0
@@ -35187,6 +35341,7 @@ uppgifterna 0
 oberoende   0
 bekräftas   0
 .   0
+
 Samtidigt   0
 sänks   0
 vinstmarginalen 0
@@ -35197,6 +35352,7 @@ procent 0
 till    0
 noll    0
 .   0
+
 Samtidigt   0
 som 0
 de  0
@@ -35216,6 +35372,7 @@ på  0
 att 0
 försvinna   0
 .   0
+
 Det 0
 handlar 0
 om  0
@@ -35232,12 +35389,14 @@ den 0
 privata 0
 allemansrätten  0
 .   0
+
 En  0
 gång    0
 ,   0
 ingen   0
 gång    0
 .   0
+
 De  0
 flesta  0
 som 0
@@ -35251,6 +35410,7 @@ feber   0
 enligt  0
 Smittskyddsinstitutet   ORG
 .   0
+
 -   0
 Ingenting   0
 tyder   0
@@ -35260,6 +35420,7 @@ de  0
 överlevde   0
 fallet  0
 .   0
+
 Många   0
 av  0
 barnen  0
@@ -35274,6 +35435,7 @@ ekonomiskt  0
 i   0
 framtiden   0
 .   0
+
 Betyg   0
 :   0
 4   0
@@ -35311,6 +35473,7 @@ som 0
 är  0
 rätt    0
 .   0
+
 Till    0
 mannens 0
 tveksamma   0
@@ -35327,6 +35490,7 @@ var 0
 helt    0
 given   0
 .   0
+
 Denna   0
 stavning    0
 har 0
@@ -35352,6 +35516,7 @@ svenskans   0
 ortografiska    0
 principer   0
 .   0
+
 –   0
 Vi  0
 tittar  0
@@ -35366,6 +35531,7 @@ det 0
 behöver 0
 göras   0
 .   0
+
 En  0
 72-årig 0
 man 0
@@ -35378,6 +35544,7 @@ dog 0
 i   0
 söndags 0
 .   0
+
 Båda    0
 har 0
 sett    0
@@ -35391,6 +35558,7 @@ på  0
 sina    0
 arbetsplatser   0
 .   0
+
 Sedan   0
 är  0
 det 0
@@ -35414,6 +35582,7 @@ som 0
 inte    0
 orkar   0
 .   0
+
 Polisen ORG
 sökte   0
 under   0
@@ -35428,6 +35597,7 @@ undersökning    0
 på  0
 platsen 0
 .   0
+
 Regeringen  0
 överlät 0
 till    0
@@ -35444,6 +35614,7 @@ höra    0
 med 0
 riksdagen   0
 .   0
+
 20:35   0
 ,   0
 11  0
@@ -35463,12 +35634,14 @@ Oh  0
 sjunga  0
 nu  0
 .   0
+
 Signerat    0
 –   0
 Martin  PER
 Liby    PER
 Alonso  PER
 .   0
+
 Men 0
 i   0
 sin 0
@@ -35505,6 +35678,7 @@ av  0
 det 0
 motståndet  0
 .   0
+
 –   0
 Vi  0
 ersatte 0
@@ -35514,10 +35688,12 @@ ett 0
 öppet   0
 trapphus    0
 .   0
+
 Det 0
 gör 0
 jag 0
 .   0
+
 De  0
 försökte    0
 säkert  0
@@ -35533,6 +35709,7 @@ García  PER
 till    0
 EFE ORG
 .   0
+
 Efter   0
 helgerna    0
 i   0
@@ -35546,6 +35723,7 @@ i   0
 princip 0
 över    0
 .   0
+
 Styrelsen   0
 föreslår    0
 en  0
@@ -35564,11 +35742,13 @@ på  0
 2:74    0
 kronor  0
 .   0
+
 Det 0
 var 0
 ingen   0
 dyrgrip 0
 .   0
+
 Mellan  0
 åren    0
 2004    0
@@ -35590,10 +35770,12 @@ beställde   0
 nya 0
 fartyg  0
 .   0
+
 Det 0
 var 0
 akut    0
 .   0
+
 Men 0
 inte    0
 illojal 0
@@ -35606,6 +35788,7 @@ inte    0
 snarare 0
 uppgiven    0
 .   0
+
 Var 0
 eller   0
 varannan    0
@@ -35637,6 +35820,7 @@ antiken 0
 och 0
 medeltiden  0
 .   0
+
 –   0
 En  0
 salva   0
@@ -35651,6 +35835,7 @@ reagera 0
 starkt  0
 på  0
 .   0
+
 Sist    0
 men 0
 inte    0
@@ -35664,6 +35849,7 @@ debut   0
 i   0
 tävlingen   0
 .   0
+
 Att 0
 partipamparna   0
 skulle  0
@@ -35679,6 +35865,7 @@ folk    0
 var 0
 uteslutet   0
 .   0
+
 I   0
 Petrobras   ORG
 har 0
@@ -35694,6 +35881,7 @@ som 0
 lärling 0
 1978    0
 .   0
+
 Den 0
 tidigare    0
 definitionen    0
@@ -35708,6 +35896,7 @@ var 0
 år  0
 gammal  0
 .   0
+
 -   0
 Det 0
 blir    0
@@ -35715,6 +35904,7 @@ inget   0
 dödsstraff  0
 alls    0
 .   0
+
 Den 0
 ges 0
 sedan   0
@@ -35739,6 +35929,7 @@ orsakad 0
 ekonomisk   0
 skada   0
 .   0
+
 Bedömare    0
 i   0
 branschen   0
@@ -35753,6 +35944,7 @@ två 0
 miljarder   0
 kronor  0
 .   0
+
 Varje   0
 år  0
 i   0
@@ -35764,6 +35956,7 @@ utrikespolitik  0
 i   0
 riksdagen   0
 .   0
+
 Finlandssvenska 0
 erfarenheter    0
 har 0
@@ -35771,6 +35964,7 @@ mycket  0
 att 0
 tillföra    0
 .   0
+
 Vilken  0
 skattenivå  0
 anser   0
@@ -35802,7 +35996,9 @@ igenom  0
 texten  0
 efteråt 0
 .   0
+
 .   0
+
 Drygt   0
 en  0
 femtedel    0
@@ -35848,6 +36044,7 @@ erfarenheter    0
 av  0
 sjukvården  0
 .   0
+
 Det 0
 breda   0
 genomslaget 0
@@ -35874,6 +36071,7 @@ här 0
 intill  0
 )   0
 .   0
+
 -   0
 Även    0
 om  0
@@ -35893,6 +36091,7 @@ en  0
 psykologisk 0
 effekt  0
 .   0
+
 Som 0
 om  0
 det 0
@@ -35909,6 +36108,7 @@ runt    0
 2800    0
 fKr 0
 .   0
+
 Han 0
 säger   0
 att 0
@@ -35927,6 +36127,7 @@ vittnen 0
 till    0
 dramat  0
 .   0
+
 –   0
 Snabbast    0
 ökar    0
@@ -35939,6 +36140,7 @@ att 0
 läsa    0
 tidningar   0
 .   0
+
 Eleverna    0
 misstänks   0
 nu  0
@@ -35947,6 +36149,7 @@ brott   0
 mot 0
 vapenlagen  0
 .   0
+
 Men 0
 oftast  0
 visar   0
@@ -35961,11 +36164,13 @@ säger   0
 Anders  PER
 Sahlstrand  PER
 .   0
+
 Diverse 0
 burkvallor  0
 och 0
 vallatillbehör  0
 .   0
+
 I   0
 andra   0
 akten   0
@@ -35990,6 +36195,7 @@ till    0
 människans  0
 inre    0
 .   0
+
 –   0
 Det 0
 är  0
@@ -35999,6 +36205,7 @@ värvning    0
 för 0
 oss 0
 .   0
+
 Det 0
 är  0
 hårresande  0
@@ -36011,9 +36218,11 @@ miljoner    0
 för 0
 ingenting   0
 .   0
+
 Helt    0
 absurt  0
 .   0
+
 Varför  0
 rynkar  0
 vi  0
@@ -36044,6 +36253,7 @@ grannen 0
 i   0
 väster  0
 .   0
+
 –   0
 Att 0
 priserna    0
@@ -36057,6 +36267,7 @@ mycket  0
 inte    0
 rimligt 0
 .   0
+
 Det 0
 är  0
 oerhört 0
@@ -36071,6 +36282,7 @@ fortsätter  0
 livet   0
 framåt  0
 .   0
+
 Poeten  0
 Carol   PER
 Ann PER
@@ -36093,6 +36305,7 @@ bees    MISC
 skriver 0
 BBC ORG
 .   0
+
 Polisen ORG
 i   0
 Malmö   LOC
@@ -36112,6 +36325,7 @@ mord    0
 i   0
 staden  0
 .   0
+
 En  0
 bräcklig    0
 gammal  0
@@ -36127,6 +36341,7 @@ flera   0
 mindre  0
 slaganfall  0
 .   0
+
 Under   0
 de  0
 gånga   0
@@ -36142,6 +36357,7 @@ många   0
 svenska 0
 hem 0
 .   0
+
 De  0
 har 0
 ”   0
@@ -36154,6 +36370,7 @@ säger   0
 i   0
 modevärlden 0
 .   0
+
 Schamanen   MISC
 och 0
 ytterligare 0
@@ -36168,6 +36385,7 @@ misstänkta  0
 för 0
 mordet  0
 .   0
+
 Men 0
 bara    0
 timmar  0
@@ -36191,6 +36409,7 @@ Beverly ORG
 Hilton  ORG
 Hotel   ORG
 .   0
+
 –   0
 Jag 0
 är  0
@@ -36205,6 +36424,7 @@ väldigt 0
 olika   0
 förberedd   0
 .   0
+
 29  0
 procent 0
 uppger  0
@@ -36220,6 +36440,7 @@ och 0
 sta 0
 ?mningar    0
 .   0
+
 Här 0
 finns   0
 garanterat  0
@@ -36227,6 +36448,7 @@ något   0
 för 0
 alla    0
 .   0
+
 Det 0
 skulle  0
 få  0
@@ -36241,6 +36463,7 @@ säger   0
 Timothy PER
 Melks   PER
 .   0
+
 Där 0
 har 0
 den 0
@@ -36256,6 +36479,7 @@ mer 0
 anspråkslösa    0
 Postbaren   0
 .   0
+
 Men 0
 med 0
 en  0
@@ -36277,6 +36501,7 @@ tiden   0
 en  0
 chans   0
 .   0
+
 De  0
 gröna   0
 näringarna  0
@@ -36309,6 +36534,7 @@ och 0
 hög 0
 livsmedelskvalitet  0
 .   0
+
 –   0
 Ja  0
 ,   0
@@ -36329,6 +36555,7 @@ har 0
 av  0
 tillverkaren    0
 .   0
+
 Smart   0
 ?   0
 Sveriges    MISC
@@ -36340,6 +36567,7 @@ inte    0
 gett    0
 klartecken  0
 .   0
+
 Det 0
 finns   0
 många   0
@@ -36408,6 +36636,7 @@ alltid  0
 finns   0
 tillgänglig 0
 .   0
+
 –   0
 Vi  0
 sliter  0
@@ -36430,6 +36659,7 @@ det 0
 till    0
 slut    0
 .   0
+
 ”   0
 Murren  MISC
 ”   0
@@ -36448,12 +36678,14 @@ i   0
 högan   0
 sky 0
 .   0
+
 Som 0
 regnet  0
 ,   0
 eller   0
 luften  0
 .   0
+
 Med 0
 Mario   PER
 Balotelli   PER
@@ -36483,6 +36715,7 @@ skaffa  0
 sig 0
 speltid 0
 .   0
+
 Resultatet  0
 blev    0
 en  0
@@ -36493,6 +36726,7 @@ som 0
 tystades    0
 ner 0
 .   0
+
 Utgångspunkten  0
 för 0
 reformen    0
@@ -36519,6 +36753,7 @@ till    0
 Dagens  ORG
 Industri    ORG
 .   0
+
 Det 0
 görs    0
 nu  0
@@ -36530,6 +36765,7 @@ ett 0
 annat   0
 sätt    0
 .   0
+
 Omsättningen    0
 lyfte   0
 också   0
@@ -36547,6 +36783,7 @@ väntade 0
 9,2 0
 miljarder   0
 .   0
+
 Folket  0
 på  0
 De  PER
@@ -36574,6 +36811,7 @@ mån 0
 Johan   PER
 Elmander    PER
 .   0
+
 Regeringskansliet   ORG
 förfogar    0
 över    0
@@ -36610,6 +36848,7 @@ vid 0
 Stockholms  ORG
 Universitet ORG
 .   0
+
 Rymdstationen   0
 ska 0
 vara    0
@@ -36627,6 +36866,7 @@ ut  0
 i   0
 världsrymden    0
 .   0
+
 Offret  0
 bands   0
 och 0
@@ -36635,6 +36875,7 @@ i   0
 ett 0
 badkar  0
 .   0
+
 ”   0
 Varenda 0
 en  0
@@ -36651,6 +36892,7 @@ förbundskaptenen    0
 Roger   PER
 Rönnberg    PER
 .   0
+
 De  0
 tre 0
 operativsystemen    0
@@ -36663,6 +36905,7 @@ fördelar    0
 och 0
 nackdelar   0
 .   0
+
 Det 0
 är  0
 0,1 0
@@ -36675,6 +36918,7 @@ två 0
 års 0
 sikt    0
 .   0
+
 Särskilt    0
 inte    0
 om  0
@@ -36685,6 +36929,7 @@ att 0
 ha  0
 läst    0
 .   0
+
 –   0
 Det 0
 är  0
@@ -36711,6 +36956,7 @@ dem 0
 säger   0
 Jenny   PER
 .   0
+
 Vårt    0
 viktigaste  0
 försvar 0
@@ -36720,6 +36966,7 @@ pandemi 0
 är  0
 vaccin  0
 .   0
+
 Det 0
 här 0
 är  0
@@ -36736,6 +36983,7 @@ advokat 0
 Francisco   PER
 Baena   PER
 .   0
+
 2-1 0
 borta   0
 mot 0
@@ -36759,6 +37007,7 @@ kvittera    0
 portugisernas   0
 ledning 0
 .   0
+
 De  0
 lockade 0
 med 0
@@ -36778,12 +37027,14 @@ på  0
 att 0
 leverera    0
 .   0
+
 På  0
 söndagen    0
 fick    0
 han 0
 sparken 0
 .   0
+
 Dessutom    0
 mår 0
 inte    0
@@ -36798,6 +37049,7 @@ av  0
 jordfräsens 0
 härjningar  0
 .   0
+
 -   0
 Vi  0
 vill    0
@@ -36825,6 +37077,7 @@ Merkel  PER
 till    0
 journalister    0
 .   0
+
 Analytiker  0
 hade    0
 i   0
@@ -36843,6 +37096,7 @@ enligt  0
 Reuters ORG
 sammanställning 0
 .   0
+
 Ändå    0
 har 0
 Kungsgatan  LOC
@@ -36877,6 +37131,7 @@ till    0
 Kungsgatan  MISC
 ”   0
 .   0
+
 Granskningen    0
 visar   0
 att 0
@@ -36904,6 +37159,7 @@ kronor  0
 per 0
 ton 0
 .   0
+
 I   0
 Frölunda    ORG
 saknades    0
@@ -36911,6 +37167,7 @@ alltjämt    0
 Magnus  PER
 Kahnberg    PER
 .   0
+
 Men 0
 på  0
 senare  0
@@ -36924,6 +37181,7 @@ henne   0
 till    0
 partiikon   0
 .   0
+
 Sedan   0
 tidigare    0
 har 0
@@ -36934,6 +37192,7 @@ dollar  0
 till    0
 projektet   0
 .   0
+
 Allmänhetens    0
 förtroende  0
 för 0
@@ -36945,8 +37204,10 @@ långt   0
 ifrån   0
 återställt  0
 .   0
+
 6   0
 .   0
+
 –   0
 Det 0
 är  0
@@ -36967,6 +37228,7 @@ i   0
 nästa   0
 puck    0
 .   0
+
 Jag 0
 tycker  0
 att 0
@@ -36978,6 +37240,7 @@ det 0
 ingen   0
 mobbning    0
 .   0
+
 Då  0
 vallar  0
 man 0
@@ -36997,6 +37260,7 @@ kontroller  0
 längs   0
 vägen   0
 .   0
+
 Trafikverket    ORG
 har 0
 hittills    0
@@ -37005,6 +37269,7 @@ avslagit    0
 anmälda 0
 skadeärenden    0
 .   0
+
 Ett 0
 nytt    0
 miljöprogram    0
@@ -37015,6 +37280,7 @@ till    0
 valet   0
 2014    0
 .   0
+
 ”   0
 Det 0
 är  0
@@ -37025,6 +37291,7 @@ sorgearbete 0
 förklarar   0
 han 0
 .   0
+
 När 0
 ”   0
 Transformers    MISC
@@ -37043,8 +37310,10 @@ om  0
 i   0
 världen 0
 .   0
+
 Tyvärr  0
 .   0
+
 Flera   0
 personer    0
 har 0
@@ -37053,6 +37322,7 @@ misstänkta  0
 för 0
 bluffen 0
 .   0
+
 Jag 0
 har 0
 misstänkt   0
@@ -37068,6 +37338,7 @@ skvallra    0
 säger   0
 han 0
 .   0
+
 Sverige LOC
 fick    0
 drygt   0
@@ -37081,6 +37352,7 @@ stormen 0
 Gudruns MISC
 härjningar  0
 .   0
+
 -   0
 Vi  0
 har 0
@@ -37100,6 +37372,7 @@ att 0
 aktiefonder 0
 svänger 0
 .   0
+
 Sedan   0
 tidigare    0
 är  0
@@ -37110,6 +37383,7 @@ Pär PER
 Gerell  PER
 OS-kvalificerade    0
 .   0
+
 Ofta    0
 beror   0
 andelen 0
@@ -37123,6 +37397,7 @@ rör 0
 sig 0
 om  0
 .   0
+
 I   0
 går 0
 kastade 0
@@ -37135,6 +37410,7 @@ en  0
 marockansk  0
 exportvara  0
 .   0
+
 Går 0
 det 0
 att 0
@@ -37176,6 +37452,7 @@ självklart  0
 nummer  0
 ett 0
 .   0
+
 Israeliska  0
 och 0
 amerikanska 0
@@ -37192,6 +37469,7 @@ om  0
 planerade   0
 operationer 0
 .   0
+
 Men 0
 trots   0
 bidragen    0
@@ -37207,6 +37485,7 @@ att 0
 fullfölja   0
 adsl-utbyggnaden    0
 .   0
+
 Om  0
 Microsoft   ORG
 inte    0
@@ -37220,6 +37499,7 @@ riktigt 0
 tungt   0
 framöver    0
 .   0
+
 I   0
 fjol    0
 kom 0
@@ -37239,6 +37519,7 @@ måste   MISC
 dö  MISC
 ”   0
 .   0
+
 –   0
 Mikael  PER
 var 0
@@ -37251,6 +37532,7 @@ han 0
 kunde   0
 spela   0
 .   0
+
 När 0
 får 0
 svenskarna  0
@@ -37267,6 +37549,7 @@ med 0
 tio 0
 trossar 0
 .   0
+
 Den 0
 största 0
 bromsklossen    0
@@ -37277,6 +37560,7 @@ som 0
 otillräcklig    0
 efterfrågan 0
 .   0
+
 Då  0
 är  0
 bankerna    0
@@ -37292,6 +37576,7 @@ krediter    0
 klart   0
 lägre   0
 .   0
+
 Han 0
 ”   0
 försvarade  0
@@ -37322,6 +37607,7 @@ plikt   0
 att 0
 sprida  0
 .   0
+
 Om  0
 hon 0
 slår    0
@@ -37330,6 +37616,7 @@ hoppar  0
 hon 0
 av  0
 .   0
+
 Läget   0
 är  0
 under   0
@@ -37339,6 +37626,7 @@ om  0
 än  0
 långsam 0
 .   0
+
 Att 0
 män 0
 nu  0
@@ -37369,6 +37657,7 @@ skriver 0
 nyhetsbyrån 0
 Reuters ORG
 .   0
+
 Här 0
 är  0
 det 0
@@ -37380,6 +37669,7 @@ könsgränser 0
 är  0
 upphävda    0
 .   0
+
 Burma   LOC
 var 0
 tidigare    0
@@ -37406,6 +37696,7 @@ utrikesminister 0
 besökte 0
 landet  0
 .   0
+
 Risken  0
 är  0
 också   0
@@ -37435,6 +37726,7 @@ när 0
 tunnelbanan 0
 uteblir 0
 .   0
+
 Det 0
 var 0
 en  0
@@ -37462,6 +37754,7 @@ min 0
 egen    0
 story   0
 .   0
+
 Framför 0
 allt    0
 är  0
@@ -37482,6 +37775,7 @@ utöver  0
 det 0
 vanliga 0
 .   0
+
 En  0
 sådan   0
 skarp   0
@@ -37493,6 +37787,7 @@ den 0
 atenska 0
 teaterbesökaren 0
 .   0
+
 Leukemin    0
 botades 0
 av  0
@@ -37515,6 +37810,7 @@ följa   0
 upp 0
 efteråt 0
 .   0
+
 Ungdomlingarnas 0
 aktivitetsnivå  0
 och 0
@@ -37526,6 +37822,7 @@ saker   0
 är  0
 hög 0
 .   0
+
 De  0
 anställda   0
 tycks   0
@@ -37548,6 +37845,7 @@ i   0
 sin 0
 bok 0
 .   0
+
 Schamanen   0
 pekade  0
 ut  0
@@ -37564,6 +37862,7 @@ ett 0
 år  0
 tidigare    0
 .   0
+
 Så  0
 är  0
 det 0
@@ -37574,6 +37873,7 @@ utsträckning    0
 i   0
 dag 0
 .   0
+
 Kanske  0
 kan 0
 vi  0
@@ -37583,10 +37883,12 @@ av  0
 den 0
 insikten    0
 .   0
+
 Läs 0
 artikeln    0
 här 0
 .   0
+
 Trots   0
 det 0
 vaccinerade 0
@@ -37597,6 +37899,7 @@ i   0
 alla    0
 fall    0
 .   0
+
 Den 0
 omhändertagne   0
 13-åringen  0
@@ -37615,6 +37918,7 @@ en  0
 av  0
 poliserna   0
 .   0
+
 ’   0
 ’   0
 Det 0
@@ -37651,6 +37955,7 @@ industri    ORG
 2   0
 )   0
 .   0
+
 Men 0
 sedan   0
 ?   0
@@ -37662,6 +37967,7 @@ på  0
 i   0
 augusti 0
 .   0
+
 Steve   PER
 Saviano PER
 utnyttjade  0
@@ -37682,6 +37988,7 @@ Norrena PER
 i   0
 bortakassen 0
 .   0
+
 Banken  0
 lånar   0
 genom   0
@@ -37690,6 +37997,7 @@ ställa  0
 ut  0
 bostadsobligationer 0
 .   0
+
 Cineaster   MISC
 känner  0
 kanske  0
@@ -37707,6 +38015,7 @@ syns    0
 i   0
 utställningen   0
 .   0
+
 Enligt  0
 rapporterna 0
 hade    0
@@ -37721,6 +38030,7 @@ förfall 0
 i   0
 Ungern  LOC
 .   0
+
 Då  0
 hade    0
 Johan   PER
@@ -37746,6 +38056,7 @@ Enqvist PER
 i   0
 kaptensstolen   0
 .   0
+
 Riktigt 0
 proggigt    0
 ,   0
@@ -37753,6 +38064,7 @@ men 0
 söta    0
 flickor 0
 .   0
+
 Även    0
 flera   0
 exportberoende  0
@@ -37768,6 +38080,7 @@ det 0
 grekiska    0
 godkännandet    0
 .   0
+
 Är  0
 annonsen    0
 kul 0
@@ -37793,6 +38106,7 @@ aktie   0
 året    0
 före    0
 .   0
+
 Övriga  0
 tre 0
 spår    0
@@ -37804,6 +38118,7 @@ på  0
 1,75    0
 procent 0
 .   0
+
 En  0
 15-åring    0
 som 0
@@ -37819,10 +38134,12 @@ till    0
 30  0
 dagsböter   0
 .   0
+
 Det 0
 var 0
 1970    0
 .   0
+
 -   0
 Men 0
 det 0
@@ -37848,6 +38165,7 @@ bevismedel  0
 än  0
 husrannsakan    0
 .   0
+
 3-0 0
 tryckte 0
 Anders  PER
@@ -37874,6 +38192,7 @@ med 0
 Marius  PER
 Holtet  PER
 .   0
+
 Men 0
 kungapeng   0
 i   0
@@ -37902,6 +38221,7 @@ pianister   0
 i   0
 världen 0
 .   0
+
 De  0
 nivåer  0
 vi  0
@@ -37916,6 +38236,7 @@ att 0
 planera 0
 in  0
 .   0
+
 Efter   0
 tio 0
 månaders    0
@@ -37929,6 +38250,7 @@ av  0
 tagits  0
 bort    0
 .   0
+
 Han 0
 slängdes    0
 in  0
@@ -37942,6 +38264,7 @@ av  0
 en  0
 magmuskel   0
 .   0
+
 En  0
 hajfenleverantör    0
 skrev   0
@@ -37961,6 +38284,7 @@ gör 0
 tummen  0
 ner 0
 .   0
+
 Fackföreningarna    0
 måste   0
 blåsa   0
@@ -37990,6 +38314,7 @@ för 0
 demonstrationernas  0
 fredlighet  0
 .   0
+
 Men 0
 hittills    0
 har 0
@@ -38009,6 +38334,7 @@ kommuner    0
 har 0
 ansökt  0
 .   0
+
 Jag 0
 är  0
 fortfarande 0
@@ -38024,6 +38350,7 @@ och 0
 skrek   0
 någonstans  0
 .   0
+
 En  0
 börs-vd 0
 som 0
@@ -38043,6 +38370,7 @@ ur  0
 ett 0
 förtroendeperspektiv    0
 .   0
+
 Man 0
 kan 0
 nästan  0
@@ -38064,6 +38392,7 @@ variation   0
 i   0
 minspelet   0
 .   0
+
 Då  0
 bodde   0
 de  0
@@ -38080,6 +38409,7 @@ fem 0
 varje   0
 morgon  0
 .   0
+
 Snart   0
 släpps  0
 hennes  0
@@ -38096,6 +38426,7 @@ utveckling  0
 och 0
 hår 0
 .   0
+
 ”   0
 Den 0
 syriska 0
@@ -38114,6 +38445,7 @@ en  0
 skriftligt  0
 uttalande   0
 .   0
+
 Enligt  0
 Karl    PER
 Sandberg    PER
@@ -38128,6 +38460,7 @@ liksom  0
 eventuell   0
 sanering    0
 .   0
+
 Enligt  0
 Sydsvenskan ORG
 har 0
@@ -38140,6 +38473,7 @@ två 0
 äldre   0
 damer   0
 .   0
+
 Det 0
 viktiga 0
 är  0
@@ -38164,6 +38498,7 @@ kan 0
 säger   0
 han 0
 .   0
+
 Fabriksarbeterskorna    0
 har 0
 städrockar  0
@@ -38174,6 +38509,7 @@ i   0
 starka  0
 70-talsfärger   0
 .   0
+
 Men 0
 sen 0
 går 0
@@ -38190,6 +38526,7 @@ här 0
 på  0
 Kungsholmen LOC
 .   0
+
 ”   0
 Du  0
 fattar  0
@@ -38209,6 +38546,7 @@ för 0
 din 0
 skull   0
 .   0
+
 –   0
 Med 0
 50  0
@@ -38230,6 +38568,7 @@ mer 0
 av  0
 detta   0
 .   0
+
 Jag 0
 trivs   0
 jättebra    0
@@ -38254,6 +38593,7 @@ av  0
 säger   0
 han 0
 .   0
+
 Denne   0
 blev    0
 nu  0
@@ -38266,6 +38606,7 @@ procent 0
 av  0
 rösterna    0
 .   0
+
 Den 0
 är  0
 rätt    0
@@ -38280,6 +38621,7 @@ av  0
 Stockholms  LOC
 gator   0
 .   0
+
 Jag 0
 tror    0
 inte    0
@@ -38309,6 +38651,7 @@ reagerade   0
 så  0
 starkt  0
 .   0
+
 (   0
 29  0
 )   0
@@ -38323,6 +38666,7 @@ bottom  MISC
 ”   0
 9   0
 .   0
+
 Går 0
 det 0
 riktigt 0
@@ -38335,8 +38679,10 @@ staten  0
 det 0
 svider  0
 .   0
+
 Världsvanan 0
 .   0
+
 Hon 0
 bloggade    0
 på  0
@@ -38381,6 +38727,7 @@ protester   0
 och 0
 övergrepp   0
 .   0
+
 En  0
 politiker   0
 som 0
@@ -38400,6 +38747,7 @@ förbättrar  0
 kvinnors    0
 karriärmöjligheter  0
 .   0
+
 –   0
 Det 0
 behövs  0
@@ -38412,6 +38760,7 @@ politiken   0
 och 0
 näringslivet    0
 .   0
+
 En  0
 40-årig 0
 man 0
@@ -38422,6 +38771,7 @@ häktad  0
 för 0
 mordet  0
 .   0
+
 De  0
 som 0
 beslutar    0
@@ -38435,6 +38785,7 @@ klar    0
 för 0
 sig 0
 .   0
+
 Syriens LOC
 FN-ambassadör   0
 Bashar  PER
@@ -38455,6 +38806,7 @@ Syriens LOC
 interna 0
 angelägenheter  0
 .   0
+
 –   0
 Varför  0
 ska 0
@@ -38471,6 +38823,7 @@ upp 0
 Stockholms  LOC
 planer  0
 .   0
+
 Då  0
 blir    0
 männen  0
@@ -38484,6 +38837,7 @@ att 0
 skapa   0
 instabilitet    0
 .   0
+
 Men 0
 regeringens 0
 budgetförslag   0
@@ -38500,6 +38854,7 @@ det 0
 är  0
 valår   0
 .   0
+
 Jag 0
 vill    0
 göra    0
@@ -38511,12 +38866,14 @@ och 0
 berör   0
 mig 0
 .   0
+
 Världen 0
 står    0
 inför   0
 betydande   0
 utmaningar  0
 .   0
+
 Efter   0
 tre 0
 perioder    0
@@ -38535,6 +38892,7 @@ man 0
 med 0
 118-91  0
 .   0
+
 -   0
 Jag 0
 är  0
@@ -38545,12 +38903,14 @@ vägskäl 0
 säger   0
 han 0
 .   0
+
 Det 0
 var 0
 kaotiskt    0
 på  0
 Volvo   ORG
 .   0
+
 Ännu    0
 finns   0
 ingen   0
@@ -38579,6 +38939,7 @@ uppe    0
 på  0
 dagordningen    0
 .   0
+
 Men 0
 det 0
 är  0
@@ -38594,6 +38955,7 @@ mot 0
 sig 0
 själv   0
 .   0
+
 Två 0
 segrar  0
 och 0
@@ -38604,6 +38966,7 @@ hennes  0
 facit   0
 hittills    0
 .   0
+
 Patrick PER
 Swayzes PER
 glansroll   0
@@ -38626,6 +38989,7 @@ sensuellt   0
 heta    0
 koreografin 0
 .   0
+
 Men 0
 sedan   0
 också   0
@@ -38645,6 +39009,7 @@ i   0
 Engelska    LOC
 kanalen LOC
 .   0
+
 Skidorten   0
 har 0
 tidigare    0
@@ -38671,6 +39036,7 @@ tävla   0
 och 0
 shoppa  0
 .   0
+
 Omfattningen    0
 är  0
 rätt    0
@@ -38687,6 +39053,7 @@ ett 0
 livslångt   0
 handikapp   0
 .   0
+
 Även    0
 i   0
 denna   0
@@ -38700,6 +39067,7 @@ den 0
 främsta 0
 behållningen    0
 .   0
+
 Sjöstedts   PER
 solokarriär 0
 understryks 0
@@ -38714,6 +39082,7 @@ ställning   0
 mot 0
 S   ORG
 .   0
+
 När 0
 hon 0
 väl 0
@@ -38724,6 +39093,7 @@ hon 0
 allt    0
 vara    0
 .   0
+
 Men 0
 ,   0
 lobbyn  0
@@ -38746,6 +39116,7 @@ inte    0
 täcka   0
 huvudet 0
 .   0
+
 Jag 0
 hade    0
 dramatiserat    0
@@ -38762,6 +39133,7 @@ kändes  0
 nästan  0
 oöverstigligt   0
 .   0
+
 Hon 0
 är  0
 handläggare 0
@@ -38781,6 +39153,7 @@ förlora 0
 sitt    0
 hem 0
 .   0
+
 20:24   0
 ,   0
 11  0
@@ -38800,6 +39173,7 @@ den 0
 här 0
 delfinalen  0
 .   0
+
 Missförstå  0
 mig 0
 inte    0
@@ -38820,6 +39194,7 @@ och 0
 arbeta  0
 hälsofrämjande  0
 .   0
+
 Ett 0
 ömsom   0
 bullrande   0
@@ -38835,6 +39210,7 @@ andra   0
 musikaliska 0
 traditioner 0
 .   0
+
 Människohandel  0
 är  0
 ett 0
@@ -38855,6 +39231,7 @@ barn    0
 till    0
 tiggeri 0
 .   0
+
 Själv   0
 försöker    0
 hon 0
@@ -38863,6 +39240,7 @@ uppståndelsen   0
 med 0
 ro  0
 .   0
+
 -   0
 Han 0
 säger   0
@@ -38885,6 +39263,7 @@ inte    0
 i   0
 praktiken   0
 .   0
+
 Här 0
 gavs    0
 tillfälle   0
@@ -38892,6 +39271,7 @@ till    0
 jämförelser 0
 live    0
 .   0
+
 De  0
 kan 0
 också   0
@@ -38905,6 +39285,7 @@ ropar   0
 på  0
 dem 0
 .   0
+
 ”   0
 Älskade 0
 hulda   0
@@ -38962,10 +39343,12 @@ barn    0
 och 0
 unga    0
 .   0
+
 Foto    0
 :   0
 privat  0
 .   0
+
 Det 0
 snodda  0
 tandskyddet 0
@@ -38978,6 +39361,7 @@ alltså  0
 ett 0
 jätteslagsmål   0
 .   0
+
 Under   0
 en  0
 eldig   0
@@ -38991,6 +39375,7 @@ en  0
 kraftig 0
 explosion   0
 .   0
+
 Både    0
 Henrik  PER
 och 0
@@ -39002,6 +39387,7 @@ poänglösa   0
 av  0
 isen    0
 .   0
+
 –   0
 Jag 0
 är  0
@@ -39017,11 +39403,13 @@ benen   0
 och 0
 bålen   0
 .   0
+
 Det 0
 var 0
 ingen   0
 engångsföreteelse   0
 .   0
+
 Vad 0
 har 0
 du  0
@@ -39056,6 +39444,7 @@ priset  0
 på  0
 scenen  0
 .   0
+
 –   0
 Jag 0
 älskar  0
@@ -39075,6 +39464,7 @@ har 0
 skådespelarna   0
 agerar  0
 .   0
+
 Lättlästa   0
 sidor   0
 i   0
@@ -39097,6 +39487,7 @@ som 0
 rinnande    0
 vatten  0
 .   0
+
 I   0
 sin 0
 etta    0
@@ -39113,6 +39504,7 @@ och 0
 rolig   0
 blandning   0
 .   0
+
 Sekelskiftesmiljö   0
 med 0
 en  0
@@ -39130,6 +39522,7 @@ scenen  0
 inför   0
 premiären   0
 .   0
+
 Tja 0
 ,   0
 de  0
@@ -39138,6 +39531,7 @@ väl 0
 vara    0
 emot    0
 .   0
+
 Händelsen   0
 fick    0
 på  0
@@ -39153,6 +39547,7 @@ en  0
 rejäl   0
 skrapa  0
 .   0
+
 Nu  0
 finns   0
 alltså  0
@@ -39160,6 +39555,7 @@ fyra    0
 konstaterade    0
 fall    0
 .   0
+
 Mats    PER
 Odell   PER
 själv   0
@@ -39177,6 +39573,7 @@ stöder  0
 Göran   PER
 Hägglund    PER
 .   0
+
 Och 0
 så  0
 en  0
@@ -39201,10 +39598,12 @@ ska 0
 vara    0
 kvinnor 0
 .   0
+
 Nej 0
 långt   0
 ifrån   0
 .   0
+
 170 0
 läkare  0
 har 0
@@ -39234,6 +39633,7 @@ utföra  0
 lagstadgade 0
 arbeten 0
 .   0
+
 Trots   0
 att 0
 Sverige LOC
@@ -39253,6 +39653,7 @@ matchen 0
 med 0
 2-0 0
 .   0
+
 Det 0
 knackade    0
 på  0
@@ -39269,6 +39670,7 @@ knivar  0
 i   0
 sängen  0
 .   0
+
 Finsk   0
 design  0
 fortsätter  0
@@ -39280,6 +39682,7 @@ och 0
 omsorgsfull 0
 formgivning 0
 .   0
+
 Marnis  PER
 hyllade 0
 1960-talsinspirerade    0
@@ -39306,6 +39709,7 @@ och 0
 varannans   0
 hem 0
 .   0
+
 I   0
 vår 0
 kollektiva  0
@@ -39336,6 +39740,7 @@ talade  0
 samma   0
 språk   0
 .   0
+
 ... 0
 Världens    0
 populäraste 0
@@ -39351,17 +39756,20 @@ sitt    0
 500:e   0
 avsnitt 0
 .   0
+
 Det 0
 står    0
 jag 0
 fast    0
 vid 0
 .   0
+
 Alla    0
 pratade 0
 om  0
 dem 0
 .   0
+
 Och 0
 ska 0
 vi  0
@@ -39380,6 +39788,7 @@ sina    0
 nya 0
 tankar  0
 .   0
+
 I   0
 rådande 0
 läge    0
@@ -39395,6 +39804,7 @@ med 0
 normal  0
 löneglidning    0
 .   0
+
 Statsminister   0
 Fredrik PER
 Reinfeldt   PER
@@ -39425,6 +39835,7 @@ acceptera   0
 ny  0
 kärnkraft   0
 .   0
+
 På  0
 vägen   0
 dit 0
@@ -39453,6 +39864,7 @@ ner 0
 i   0
 underjorden 0
 .   0
+
 Hur 0
 vanligt 0
 är  0
@@ -39490,6 +39902,7 @@ för 0
 att 0
 göra    0
 .   0
+
 Det 0
 totala  0
 arbetade    0
@@ -39506,6 +39919,7 @@ vårt    0
 gemensamma  0
 välfärdsutrymme 0
 .   0
+
 Det 0
 gör 0
 att 0
@@ -39519,6 +39933,7 @@ ett 0
 annat   0
 sätt    0
 .   0
+
 Han 0
 menar   0
 att 0
@@ -39549,6 +39964,7 @@ en  0
 allvarlig   0
 förändring  0
 .   0
+
 En  0
 ryss    0
 eller   0
@@ -39559,6 +39975,7 @@ van PER
 der PER
 Bunt    PER
 .   0
+
 Narkolepsi  0
 är  0
 dessutom    0
@@ -39566,6 +39983,7 @@ inte    0
 särskilt    0
 vanligt 0
 .   0
+
 -   0
 Det 0
 har 0
@@ -39600,6 +40018,7 @@ men 0
 stark   0
 ändå    0
 .   0
+
 En  0
 ny  0
 rapport 0
@@ -39621,6 +40040,7 @@ fastighetsägare 0
 och 0
 hyresvärdar 0
 .   0
+
 Men 0
 jag 0
 hade    0
@@ -39631,6 +40051,7 @@ början  0
 av  0
 serien  0
 .   0
+
 –   0
 I   0
 dag 0
@@ -39655,6 +40076,7 @@ inte    0
 alltid  0
 varit   0
 .   0
+
 Lägenheten  0
 har 0
 enligt  0
@@ -39673,6 +40095,7 @@ förmögenhet 0
 på  0
 gödningsmedel   0
 .   0
+
 De  0
 höll    0
 varandras   0
@@ -39682,6 +40105,7 @@ sjöng   0
 världsstjärnans 0
 sånger  0
 .   0
+
 Skräpzonerna    0
 fungerade   0
 alldeles    0
@@ -39695,6 +40119,7 @@ förklarar   0
 Tommy   PER
 Höglund PER
 .   0
+
 Namn    0
 och 0
 utseende    0
@@ -39708,11 +40133,13 @@ i   0
 allmänt 0
 kunnande    0
 .   0
+
 Det 0
 blir    0
 en  0
 överraskning    0
 .   0
+
 –   0
 Därför  0
 att 0
@@ -39726,6 +40153,7 @@ från    0
 förra   0
 året    0
 .   0
+
 En  0
 kvinna  0
 försöker    0
@@ -39741,6 +40169,7 @@ sig 0
 bortkastade 0
 apelsiner   0
 .   0
+
 Järnvägen   0
 är  0
 det 0
@@ -39752,6 +40181,7 @@ behövs  0
 allra   0
 mest    0
 .   0
+
 På  0
 tisdagen    0
 omvaldes    0
@@ -39777,6 +40207,7 @@ de  0
 tyngre  0
 posterna    0
 .   0
+
 Angelina    PER
 Jolie   PER
 själv   0
@@ -39817,6 +40248,7 @@ Angelinas   PER
 insatser    0
 )   0
 .   0
+
 Från    0
 scenen  0
 på  0
@@ -39844,6 +40276,7 @@ en  0
 fantastisk  0
 testmarknad 0
 .   0
+
 I   0
 storstäderna    0
 ökade   0
@@ -39867,6 +40300,7 @@ strax   0
 30  0
 procent 0
 .   0
+
 De  0
 senaste 0
 tio 0
@@ -39888,6 +40322,7 @@ män 0
 och 0
 kvinnor 0
 .   0
+
 Man 0
 aldrig  0
 vet 0
@@ -39900,6 +40335,7 @@ det 0
 beror   0
 på  0
 .   0
+
 Rökningen   0
 skördar 0
 mer 0
@@ -39913,6 +40349,7 @@ som 0
 trafiken    0
 gör 0
 .   0
+
 Hennes  0
 barnbarn    0
 växer   0
@@ -39943,6 +40380,7 @@ konsekvent  0
 med 0
 finskan 0
 .   0
+
 De  0
 kulturpolitiker 0
 som 0
@@ -39966,6 +40404,7 @@ skämmas 0
 inför   0
 historien   0
 .   0
+
 Det 0
 förekommer  0
 att 0
@@ -39992,6 +40431,7 @@ enskilda    0
 personers   0
 liv 0
 .   0
+
 BLÅ 0
 :   0
 Ja  0
@@ -40010,6 +40450,7 @@ att 0
 tolka   0
 världen 0
 .   0
+
 Hatt    0
 hälsar  0
 S   0
@@ -40021,6 +40462,7 @@ bakom   0
 regeringens 0
 överenskommelse 0
 .   0
+
 Krocken 0
 gör 0
 årets   0
@@ -40033,6 +40475,7 @@ på  0
 många   0
 år  0
 .   0
+
 Att 0
 därutöver   0
 uppmana 0
@@ -40051,6 +40494,7 @@ däremot 0
 inte    0
 önskvärt    0
 .   0
+
 Där 0
 har 0
 en  0
@@ -40070,6 +40514,7 @@ vid 0
 Smittskydd  ORG
 Stockholm   ORG
 .   0
+
 Enligt  0
 räddningstjänsten   ORG
 i   0
@@ -40086,6 +40531,7 @@ stående 0
 på  0
 spåret  0
 .   0
+
 En  0
 mindre  0
 del 0
@@ -40104,6 +40550,7 @@ kontorsutrymmen 0
 i   0
 hallarna    0
 .   0
+
 -   0
 Två 0
 lastbilar   0
@@ -40125,6 +40572,7 @@ säger   0
 Calle   PER
 Persson PER
 .   0
+
 Att 0
 bli 0
 påhejad 0
@@ -40134,6 +40582,7 @@ främlingar  0
 alltid  0
 kul 0
 .   0
+
 I   0
 dag 0
 är  0
@@ -40176,6 +40625,7 @@ stora   0
 befolkningar    0
 )   0
 .   0
+
 Lite    0
 senare  0
 fick    0
@@ -40191,6 +40641,7 @@ min 0
 kompis  0
 Moa PER
 .   0
+
 Få  0
 saker   0
 provocerar  0
@@ -40202,6 +40653,7 @@ kvinnor 0
 som 0
 märks   0
 .   0
+
 –   0
 Ibland  0
 räcker  0
@@ -40220,6 +40672,7 @@ känslan 0
 av  0
 tillfredsställelse  0
 .   0
+
 Jag 0
 nekades 0
 först   0
@@ -40237,6 +40690,7 @@ till    0
 en  0
 privatläkare    0
 .   0
+
 Tidigare    0
 i   0
 höstas  0
@@ -40254,6 +40708,7 @@ KD-ledaren  0
 Göran   PER
 Hägglund    PER
 .   0
+
 Men 0
 trots   0
 felfritt    0
@@ -40271,11 +40726,13 @@ inför   0
 söndagens   0
 jaktstart   0
 .   0
+
 Men 0
 jag 0
 hoppas  0
 fortfarande 0
 .   0
+
 Omkring 0
 90  0
 procent 0
@@ -40295,6 +40752,7 @@ siffra  0
 50  0
 procent 0
 .   0
+
 Han 0
 skriver 0
 :   0
@@ -40320,6 +40778,7 @@ osäkert 0
 projekt 0
 ”   0
 .   0
+
 Då  0
 eldades 0
 kolkraftverken  0
@@ -40331,9 +40790,11 @@ säger   0
 Maria   PER
 Lidén   PER
 .   0
+
 Familjen    0
 2   0
 .   0
+
 Både    0
 Fribergs    PER
 och 0
@@ -40353,6 +40814,7 @@ till    0
 27  0
 maj 0
 .   0
+
 Motsättningarna 0
 i   0
 parlamentet 0
@@ -40369,6 +40831,7 @@ tumskruvarna    0
 tas 0
 bort    0
 .   0
+
 Vilket  0
 ansvar  0
 har 0
@@ -40409,6 +40872,7 @@ säger   0
 Clauda  PER
 Wörmann PER
 .   0
+
 Sensorerna  0
 ,   0
 som 0
@@ -40427,6 +40891,7 @@ alla    0
 större  0
 djur    0
 .   0
+
 Under   0
 2011    0
 påverkade   0
@@ -40437,6 +40902,7 @@ och 0
 konjunkturoron  0
 bostadspriserna 0
 .   0
+
 I   0
 ett 0
 internationellt 0
@@ -40457,6 +40923,7 @@ chefskapet  0
 med 0
 familjelivet    0
 .   0
+
 Och 0
 kanske  0
 medverka    0
@@ -40465,6 +40932,7 @@ att 0
 bryta   0
 den 0
 .   0
+
 Hon 0
 har 0
 sakta   0
@@ -40477,6 +40945,7 @@ ett 0
 normalt 0
 liv 0
 .   0
+
 -   0
 Det 0
 här 0
@@ -40485,6 +40954,7 @@ ju  0
 grymt   0
 skönt   0
 .   0
+
 Oddsen  0
 för 0
 att 0
@@ -40500,6 +40970,7 @@ blir    0
 allt    0
 högre   0
 .   0
+
 På  0
 första  0
 raden   0
@@ -40519,6 +40990,7 @@ på  0
 bar 0
 gärning 0
 .   0
+
 Jag 0
 har 0
 själv   0
@@ -40537,6 +41009,7 @@ under   0
 Öppet   0
 Spår    0
 .   0
+
 I   0
 början  0
 av  0
@@ -40546,6 +41019,7 @@ antalet 0
 insjuknade  0
 minska  0
 .   0
+
 Det 0
 är  0
 nästan  0
@@ -40560,6 +41034,7 @@ fjärde  0
 kvartalet   0
 2010    0
 .   0
+
 Nu  0
 varnar  0
 arrangören  0
@@ -40579,6 +41054,7 @@ biljetter   0
 i   0
 omlopp  0
 .   0
+
 ... 0
 När 0
 svininfluensan  MISC
@@ -40598,6 +41074,7 @@ vaccinera   0
 hela    0
 befolkningen    0
 .   0
+
 I   0
 söndags 0
 slog    0
@@ -40606,6 +41083,7 @@ en  0
 bomb    0
 ner 0
 .   0
+
 För 0
 så  0
 har 0
@@ -40615,6 +41093,7 @@ varit   0
 i   0
 Sverige LOC
 .   0
+
 Kostnaderna 0
 när 0
 de  0
@@ -40636,6 +41115,7 @@ arbetstagare    0
 och 0
 staten  0
 .   0
+
 Tillsammans 0
 med 0
 en  0
@@ -40665,6 +41145,7 @@ satt    0
 i   0
 riksdagen   0
 .   0
+
 –   0
 Ibland  0
 har 0
@@ -40692,6 +41173,7 @@ av  0
 ett 0
 vaccin  0
 .   0
+
 Eftersom    0
 jag 0
 kört    0
@@ -40705,6 +41187,7 @@ bra 0
 säger   0
 Collberg    PER
 .   0
+
 Vissa   0
 har 0
 som 0
@@ -40732,6 +41215,7 @@ med 0
 sina    0
 jobb    0
 .   0
+
 En  0
 dag 0
 fick    0
@@ -40752,6 +41236,7 @@ på  0
 kanadensiska    0
 ambassaden  0
 .   0
+
 -   0
 utan    0
 velat   0
@@ -40763,6 +41248,7 @@ repetitionerna  0
 drar    0
 igång   0
 .   0
+
 Då  0
 skulle  0
 man 0
@@ -40785,6 +41271,7 @@ ser 0
 en  0
 fartkamera  0
 .   0
+
 Hemmalaget  0
 bjöds   0
 på  0
@@ -40797,6 +41284,7 @@ i   0
 numerärt    0
 underläge   0
 .   0
+
 Skattebetalarna 0
 riskerar    0
 därutöver   0
@@ -40823,6 +41311,7 @@ måste   0
 justeras    0
 ner 0
 .   0
+
 –   0
 Vi  0
 hoppas  0
@@ -40858,6 +41347,7 @@ journalister    0
 inför   0
 jubileumsdagen  0
 .   0
+
 Inga    0
 arabiska    0
 broderier   0
@@ -40883,6 +41373,7 @@ vi  0
 turistar    0
 utomlands   0
 .   0
+
 Liksom  0
 nästan  0
 ett 0
@@ -40894,6 +41385,7 @@ i   0
 östra   0
 Europa  PER
 .   0
+
 Och 0
 Fredrik PER
 Lindström   PER
@@ -40914,6 +41406,7 @@ förbannad   0
 på  0
 heller  0
 .   0
+
 Än  0
 mer 0
 allvarligt  0
@@ -40943,6 +41436,7 @@ fram    0
 till    0
 villkoren   0
 .   0
+
 –   0
 Jag 0
 tror    0
@@ -40972,6 +41466,7 @@ att 0
 förverkliga 0
 dem 0
 .   0
+
 Han 0
 vill    0
 inte    0
@@ -40988,6 +41483,7 @@ som 0
 kontaktade  0
 honom   0
 .   0
+
 Nyligen 0
 öppnades    0
 ännu    0
@@ -41013,6 +41509,7 @@ medicin 0
 är  0
 stort   0
 .   0
+
 ... 0
 Oppositionen    ORG
 kräver  0
@@ -41024,6 +41521,7 @@ som 0
 självständig    0
 stat    0
 .   0
+
 Samma   0
 sak 0
 gäller  0
@@ -41042,6 +41540,7 @@ också   0
 riktigt 0
 högkvalitativ   0
 .   0
+
 Men 0
 för 0
 damerna 0
@@ -41051,6 +41550,7 @@ dagen   0
 sluta   0
 lyckligt    0
 .   0
+
 -   0
 Jag 0
 tappade 0
@@ -41069,6 +41569,7 @@ att 0
 börja   0
 gråta   0
 .   0
+
 En  0
 grundlig    0
 undersökning    0
@@ -41077,6 +41578,7 @@ riskkapitalisterna  0
 bör 0
 välkomnas   0
 .   0
+
 Urban   PER
 Ahlin   PER
 krävde  0
@@ -41104,6 +41606,7 @@ erkänna 0
 staten  0
 Palestina   LOC
 .   0
+
 –   0
 Innan   0
 dess    0
@@ -41116,6 +41619,7 @@ utopi   0
 för 0
 mig 0
 .   0
+
 Omröstningen    0
 avgör   0
 om  0
@@ -41145,6 +41649,7 @@ den 0
 20  0
 mars    0
 .   0
+
 Larmet  0
 om  0
 olyckan 0
@@ -41171,6 +41676,7 @@ klockan 0
 på  0
 onsdagsmorgonen 0
 .   0
+
 Det 0
 är  0
 de  0
@@ -41187,6 +41693,7 @@ tiden   0
 förklarar   0
 hon 0
 .   0
+
 Aktien  0
 gjorde  0
 en  0
@@ -41195,6 +41702,7 @@ med 0
 65  0
 procent 0
 .   0
+
 Under   0
 den 0
 tid 0
@@ -41215,6 +41723,7 @@ med 0
 och 0
 betala  0
 .   0
+
 Det 0
 är  0
 det 0
@@ -41231,6 +41740,7 @@ primärt 0
 ett 0
 kön 0
 .   0
+
 Och 0
 min 0
 morfar  0
@@ -41241,12 +41751,14 @@ trä 0
 underbara   0
 ting    0
 .   0
+
 Överallt    0
 ,   0
 kan 0
 man 0
 säga    0
 .   0
+
 Socialtjänstens ORG
 arbete  0
 med 0
@@ -41263,12 +41775,14 @@ kompetens   0
 och 0
 rättssäkerhet   0
 .   0
+
 Vi  0
 är  0
 emot    0
 utländsk    0
 inblandning 0
 .   0
+
 Många   0
 läsare  0
 tog 0
@@ -41312,6 +41826,7 @@ bara    0
 år  0
 sen 0
 .   0
+
 Många   0
 vittnar 0
 om  0
@@ -41322,6 +41837,7 @@ symtom  0
 menar   0
 Carr    PER
 .   0
+
 Genom   0
 att 0
 tydliggöra  0
@@ -41338,6 +41854,7 @@ bli 0
 mer 0
 attraktiva  0
 .   0
+
 Niklas  PER
 Rådström    PER
 kom 0
@@ -41366,6 +41883,7 @@ skulle  0
 förstå  0
 tillräckligt    0
 .   0
+
 Att 0
 just    0
 nå  0
@@ -41384,6 +41902,7 @@ svårare 0
 att 0
 tygla   0
 .   0
+
 Vi  0
 tror    0
 att 0
@@ -41411,6 +41930,7 @@ utbildning  0
 och 0
 handledning 0
 .   0
+
 -   0
 Men 0
 vi  0
@@ -41430,6 +41950,7 @@ räkningen   0
 hos 0
 oss 0
 .   0
+
 Men 0
 det 0
 fanns   0
@@ -41442,6 +41963,7 @@ fick    0
 jag 0
 veta    0
 .   0
+
 I   0
 sin 0
 motivering  0
@@ -41480,6 +42002,7 @@ trygga  0
 ’   0
 väggar  0
 .   0
+
 ”   0
 Det 0
 som 0
@@ -41498,6 +42021,7 @@ i   0
 första  0
 hand    0
 .   0
+
 -   0
 Men 0
 fartyget    0
@@ -41512,6 +42036,7 @@ inte    0
 helt    0
 borta   0
 .   0
+
 Efter   0
 förra   0
 derbyt  0
@@ -41525,6 +42050,7 @@ Juholtvarning   0
 på  0
 Stockholmspolisen   ORG
 .   0
+
 I   0
 ett 0
 sådant  0
@@ -41535,6 +42061,7 @@ behöva  0
 bli 0
 lägre   0
 .   0
+
 Den 0
 största 0
 bristen 0
@@ -41560,6 +42087,7 @@ stoppa  0
 inköpen 0
 helt    0
 .   0
+
 –   0
 Det 0
 är  0
@@ -41576,6 +42104,7 @@ att 0
 vara    0
 statister   0
 .   0
+
 Vid 0
 senaste 0
 U-23-VM MISC
@@ -41593,6 +42122,7 @@ hopp    0
 för 0
 framtiden   0
 .   0
+
 Det 0
 blev    0
 någon   0
@@ -41617,6 +42147,7 @@ tillfället  0
 Volvo   MISC
 XC60    MISC
 .   0
+
 Det 0
 är  0
 anmärkningsvärt 0
@@ -41637,6 +42168,7 @@ skillnad    0
 på  0
 gårdsnivå   0
 .   0
+
 Det 0
 var 0
 då  0
@@ -41650,6 +42182,7 @@ inför   0
 samma   0
 gala    0
 .   0
+
 Dessa   0
 hörnstenar  0
 har 0
@@ -41672,6 +42205,7 @@ till    0
 sin 0
 mark    0
 .   0
+
 -   0
 I   0
 dagsläget   0
@@ -41685,6 +42219,7 @@ ett 0
 stort   0
 problem 0
 .   0
+
 I   0
 flygbladen  0
 påstods 0
@@ -41701,6 +42236,7 @@ försöker    0
 avdramatisera   0
 pedofili    0
 .   0
+
 De  0
 utvalda 0
 böckerna    0
@@ -41710,6 +42246,7 @@ i   0
 Kungliga    ORG
 biblioteket ORG
 .   0
+
 Är  0
 det 0
 realistiskt 0
@@ -41744,6 +42281,7 @@ hotet   0
 ständigt    0
 närvarande  0
 .   0
+
 Den 0
 dömda   0
 terroristen 0
@@ -41770,6 +42308,7 @@ Detroit LOC
 juldagen    0
 2009    0
 .   0
+
 Förklaringen    0
 från    0
 bankhåll    0
@@ -41784,6 +42323,7 @@ kapital 0
 och 0
 likviditet  0
 .   0
+
 Jag 0
 tycker  0
 inte    0
@@ -41793,6 +42333,7 @@ garantipensionen    0
 för 0
 hög 0
 .   0
+
 Den 0
 aktuella    0
 ”   0
@@ -41842,6 +42383,7 @@ max 0
 10  0
 procentenheter  0
 .   0
+
 Jag 0
 hade    0
 den 0
@@ -41868,6 +42410,7 @@ för 0
 700 0
 kronor  0
 .   0
+
 Jag 0
 kan 0
 bara    0
@@ -41891,6 +42434,7 @@ sade    0
 tonåringen  0
 efteråt 0
 .   0
+
 Veronica    PER
 Maggio  PER
 hade    0
@@ -41911,6 +42455,7 @@ och 0
 årets   0
 textförfattare  0
 .   0
+
 Mer 0
 lyckosam    0
 är  0
@@ -41929,6 +42474,7 @@ och 0
 en  0
 thaimatservering    0
 .   0
+
 Även    0
 om  0
 det 0
@@ -41954,6 +42500,7 @@ offret  0
 anser   0
 tingsrätten ORG
 .   0
+
 Det 0
 lär 0
 alltså  0
@@ -41975,6 +42522,7 @@ orgelpall   0
 i   0
 kyrkan  0
 .   0
+
 Men 0
 den 0
 förklarar   0
@@ -41990,11 +42538,13 @@ masshysterin    0
 !   0
 ”   0
 .   0
+
 Även    0
 vägtrafiken 0
 hade    0
 problem 0
 .   0
+
 Sony    ORG
 betalar 0
 1,05    0
@@ -42004,12 +42554,14 @@ för 0
 Ericssons   ORG
 andel   0
 .   0
+
 Brad    PER
 Morans  PER
 stolpskott  0
 var 0
 närmast 0
 .   0
+
 När 0
 inte    0
 ens 0
@@ -42041,6 +42593,7 @@ som 0
 allvarligt  0
 fel 0
 .   0
+
 -   0
 Det 0
 är  0
@@ -42077,6 +42630,7 @@ skydd   0
 eller   0
 stöd    0
 .   0
+
 Vi  0
 jobbade 0
 med 0
@@ -42100,12 +42654,14 @@ på  0
 den 0
 ordentligt  0
 .   0
+
 Deras   0
 öde 0
 är  0
 okänd   0
 historia    0
 .   0
+
 För 0
 inför   0
 hans    0
@@ -42116,11 +42672,13 @@ iakttas 0
 hälsosamt   0
 leverne 0
 .   0
+
 Bensinprishöjningen 0
 protesterar 0
 Motormännen ORG
 emot    0
 .   0
+
 Elva    0
 sekunder    0
 in  0
@@ -42139,6 +42697,7 @@ turneringen 0
 kom 0
 utdelningen 0
 .   0
+
 Dels    0
 ,   0
 menar   0
@@ -42158,6 +42717,7 @@ bostäder    0
 nationella  0
 studenter   0
 .   0
+
 Ska 0
 fri 0
 entré   0
@@ -42175,6 +42735,7 @@ i   0
 Svenska 0
 rallyt  0
 .   0
+
 Ändå    0
 är  0
 det 0
@@ -42187,6 +42748,7 @@ bilen   0
 i   0
 mål 0
 .   0
+
 I   0
 pristopp    0
 ligger  0
@@ -42194,6 +42756,7 @@ inte    0
 oväntat 0
 Stockholm   LOC
 .   0
+
 Förra   0
 sommaren    0
 kämpade 0
@@ -42206,6 +42769,7 @@ sig 0
 30  0
 miljonersstrecket   0
 .   0
+
 Vi  0
 fria    0
 författare  0
@@ -42226,8 +42790,10 @@ saknar  0
 säker   0
 inkomst 0
 .   0
+
 Igen    0
 .   0
+
 Sax 0
 ,   0
 lim 0
@@ -42248,6 +42814,7 @@ skapar  0
 svindlande  0
 världar 0
 .   0
+
 –   0
 När 0
 det 0
@@ -42259,6 +42826,7 @@ jag 0
 en  0
 nörd    0
 .   0
+
 Analytiker  0
 hade    0
 i   0
@@ -42276,6 +42844,7 @@ enligt  0
 Reuters ORG
 sammanställning 0
 .   0
+
 Vi  0
 ska 0
 kunna   0
@@ -42289,6 +42858,7 @@ betonar 0
 Ingvar  PER
 Kamprad PER
 .   0
+
 –   0
 Det 0
 är  0
@@ -42296,11 +42866,13 @@ omöjligt    0
 att 0
 lagföra 0
 .   0
+
 Men 0
 så  0
 kommer  0
 nackdelarna 0
 .   0
+
 Det 0
 är  0
 numera  0
@@ -42309,6 +42881,7 @@ i   0
 min 0
 tv-soffa    0
 .   0
+
 Sedan   0
 återstår    0
 det 0
@@ -42324,6 +42897,7 @@ kan 0
 hoppas  0
 på  0
 .   0
+
 De  0
 anmäler 0
 oss 0
@@ -42335,6 +42909,7 @@ skickar 0
 arga    0
 mejl    0
 .   0
+
 -   0
 Vissa   0
 personer    0
@@ -42348,6 +42923,7 @@ säger   0
 Magnus  PER
 Ranstorp    PER
 .   0
+
 Yrkeseleverna   0
 får 0
 inte    0
@@ -42358,6 +42934,7 @@ studera 0
 vid 0
 högskolan   0
 .   0
+
 Berger  PER
 säger   0
 att 0
@@ -42385,6 +42962,7 @@ i   0
 före    0
 sommaren    0
 .   0
+
 All 0
 forskning   0
 på  0
@@ -42406,6 +42984,7 @@ som 0
 är  0
 tamdjur 0
 .   0
+
 Generalen   0
 ,   0
 som 0
@@ -42421,6 +43000,7 @@ militärsjukhus  0
 i   0
 huvudstaden 0
 .   0
+
 Nuförtiden  0
 pratas  0
 det 0
@@ -42443,6 +43023,7 @@ med 0
 motståndarnas   0
 kortlinje   0
 .   0
+
 Men 0
 han 0
 är  0
@@ -42451,11 +43032,13 @@ till    0
 tingsrättens    0
 bedömning   0
 .   0
+
 Som 0
 tackade 0
 ja  0
 direkt  0
 .   0
+
 I   0
 början  0
 av  0
@@ -42465,6 +43048,7 @@ jag 0
 diagnosen   0
 fibromyalgi 0
 .   0
+
 Han 0
 valde   0
 att 0
@@ -42496,6 +43080,7 @@ Sveriges    LOC
 vanligaste  0
 bil 0
 .   0
+
 –   0
 Jag 0
 hade    0
@@ -42521,6 +43106,7 @@ Bruzelius   PER
 till    0
 Fokus   ORG
 .   0
+
 Ryck    0
 upp 0
 dig 0
@@ -42529,6 +43115,7 @@ fokusera    0
 på  0
 spelet  0
 .   0
+
 –   0
 Bilen   0
 finns   0
@@ -42540,6 +43127,7 @@ en  0
 god 0
 vän 0
 .   0
+
 För 0
 människor   0
 och 0
@@ -42547,6 +43135,7 @@ inte    0
 för 0
 bilar   0
 .   0
+
 Med 0
 den 0
 brukade 0
@@ -42561,6 +43150,7 @@ i   0
 Paris   LOC
 innerstad   LOC
 .   0
+
 Samtliga    0
 fyra    0
 män 0
@@ -42575,6 +43165,7 @@ nekar   0
 till    0
 brott   0
 .   0
+
 Enligt  0
 det 0
 var 0
@@ -42591,11 +43182,13 @@ farlig  0
 och 0
 dödlig  0
 .   0
+
 Tillsätts   0
 därför  0
 i   0
 vacciner    0
 .   0
+
 Det 0
 kan 0
 också   0
@@ -42605,6 +43198,7 @@ gömma   0
 ett 0
 strykjärn   0
 .   0
+
 Flyktingar  0
 hålls   0
 inlåsta 0
@@ -42613,6 +43207,7 @@ ett 0
 antal   0
 månader 0
 .   0
+
 Hansdotter  PER
 kunde   0
 tacka   0
@@ -42636,6 +43231,7 @@ i   0
 andra   0
 åket    0
 .   0
+
 Direkt  0
 efter   0
 stölden 0
@@ -42647,6 +43243,7 @@ från    0
 en  0
 helikopter  0
 .   0
+
 De  0
 lagar   0
 maten   0
@@ -42665,6 +43262,7 @@ träningen   0
 som 0
 skolan  0
 .   0
+
 Om  0
 knappa  0
 två 0
@@ -42675,6 +43273,7 @@ Kroatien    LOC
 i   0
 Zagreb  LOC
 .   0
+
 Sedan   0
 12  0
 år  0
@@ -42713,6 +43312,7 @@ de  0
 båda    0
 grupperna   0
 .   0
+
 Till    0
 jul 0
 ,   0
@@ -42726,6 +43326,7 @@ ut  0
 till    0
 sommarstället   0
 .   0
+
 Med 0
 dessa   0
 försvinner  0
@@ -42744,6 +43345,7 @@ den 0
 20  0
 april   0
 .   0
+
 I   0
 flera   0
 verk    0
@@ -42764,6 +43366,7 @@ den 0
 litterära   0
 modernismen 0
 .   0
+
 Han 0
 berättade   0
 då  0
@@ -42780,6 +43383,7 @@ död 0
 i   0
 badrummet   0
 .   0
+
 –   0
 Vi  0
 kommer  0
@@ -42791,6 +43395,7 @@ i   0
 öppna   0
 matcher 0
 .   0
+
 Upplägget   0
 får 0
 nu  0
@@ -42809,6 +43414,7 @@ går 0
 att 0
 överblicka  0
 .   0
+
 Underavdelningar    0
 finns   0
 nu  0
@@ -42816,6 +43422,7 @@ i   0
 72  0
 länder  0
 .   0
+
 Vad 0
 betyder 0
 ett 0
@@ -42845,6 +43452,7 @@ samerna 0
 måste   0
 upphöra 0
 .   0
+
 Ytterligare 0
 två 0
 män 0
@@ -42852,6 +43460,7 @@ misstänks   0
 för 0
 medhjälp    0
 .   0
+
 Han 0
 tränade 0
 och 0
@@ -42860,6 +43469,7 @@ i   0
 diverse 0
 tävlingar   0
 .   0
+
 För 0
 två 0
 månader 0
@@ -42879,6 +43489,7 @@ det 0
 blev    0
 ebb 0
 .   0
+
 Mycket  0
 av  0
 detta   0
@@ -42890,6 +43501,7 @@ det 0
 kommande    0
 valet   0
 .   0
+
 Men 0
 redan   0
 när 0
@@ -42910,6 +43522,7 @@ USA LOC
 över    0
 framtidsutsikterna  0
 .   0
+
 Mycket  0
 tack    0
 vare    0
@@ -42927,6 +43540,7 @@ sömn    0
 och 0
 vakenhet    0
 .   0
+
 Läkemedelsjätten    0
 Astra   ORG
 Zeneca  ORG
@@ -42946,6 +43560,7 @@ mest    0
 av  0
 storbolagen 0
 .   0
+
 Hyran   0
 för 0
 hela    0
@@ -42971,6 +43586,7 @@ att 0
 delas   0
 av  0
 .   0
+
 Christopher PER
 Polhem  PER
 ,   0
@@ -42991,6 +43607,7 @@ samarbete   0
 mellan  0
 generationer    0
 .   0
+
 Skidåkarna  0
 rekommenderas   0
 att 0
@@ -43004,6 +43621,7 @@ ovanliggande    0
 branta  0
 partier 0
 .   0
+
 En  0
 hög 0
 personalomsättning  0
@@ -43019,6 +43637,7 @@ kontrollen  0
 menar   0
 kritikerna  0
 .   0
+
 Jag 0
 frågar  0
 om  0
@@ -43044,6 +43663,7 @@ han 0
 aldrig  0
 gjort   0
 .   0
+
 Men 0
 nu  0
 finns   0
@@ -43054,11 +43674,13 @@ med 0
 som 0
 utmanare    0
 .   0
+
 Låt 0
 rinna   0
 av  0
 ordentligt  0
 .   0
+
 Under   0
 fjärde  0
 kvartalet   0
@@ -43079,6 +43701,7 @@ till    0
 miljarder   0
 kronor  0
 .   0
+
 I   0
 spetsen 0
 för 0
@@ -43105,6 +43728,7 @@ vanstyre    0
 av  0
 landet  0
 .   0
+
 Jag 0
 kom 0
 att 0
@@ -43113,11 +43737,13 @@ på  0
 Allan   PER
 Pettersson  PER
 .   0
+
 Kapellmästare   0
 :   0
 Jakob   PER
 Petrén  PER
 .   0
+
 Att 0
 partiledare 0
 blir    0
@@ -43129,6 +43755,7 @@ kanske  0
 inte    0
 förvånande  0
 .   0
+
 Missilprojektets    0
 högste  0
 befälhavare 0
@@ -43139,6 +43766,7 @@ Moqaddam    PER
 ,   0
 dödades 0
 .   0
+
 "   0
 En  0
 ovanligt    0
@@ -43170,6 +43798,7 @@ av  0
 de  0
 åtalade 0
 .   0
+
 Det 0
 ökar    0
 intresset   0
@@ -43188,6 +43817,7 @@ indirekta   0
 i   0
 aktiefonder 0
 .   0
+
 Värk    0
 tar 0
 lätt    0
@@ -43195,6 +43825,7 @@ makten  0
 över    0
 oss 0
 .   0
+
 Han 0
 rekommenderar   0
 också   0
@@ -43216,6 +43847,7 @@ i   0
 lavintäta   0
 områden 0
 .   0
+
 Vi  0
 höjer   0
 ribban  0
@@ -43229,6 +43861,7 @@ vi  0
 är  0
 radikala    0
 .   0
+
 På  0
 Ericsson    ORG
 vill    0
@@ -43246,6 +43879,7 @@ service 0
 till    0
 analytikerna    0
 .   0
+
 En  0
 villa   0
 står    0
@@ -43269,6 +43903,7 @@ i   0
 husets  0
 pannrum 0
 .   0
+
 En  0
 hälsning    0
 från    0
@@ -43292,6 +43927,7 @@ nästa   0
 söndag  0
 alltså  0
 .   0
+
 "   0
 Jag 0
 vill    0
@@ -43304,6 +43940,7 @@ honom   0
 som 0
 partiledarkollega   0
 .   0
+
 ”   0
 Jag 0
 är  0
@@ -43324,6 +43961,7 @@ nå  0
 andlig  0
 fullkomning 0
 .   0
+
 Vad 0
 gör 0
 IOK ORG
@@ -43385,6 +44023,7 @@ inslag  0
 av  0
 begär   0
 .   0
+
 Socialdemokraternas ORG
 kongressbeslut  0
 bygger  0
@@ -43395,6 +44034,7 @@ successivt  0
 fasas   0
 ut  0
 .   0
+
 Tio 0
 kantstolpar 0
 med 0
@@ -43409,6 +44049,7 @@ meter   0
 lång    0
 sträcka 0
 .   0
+
 Så  0
 är  0
 det 0
@@ -43431,6 +44072,7 @@ ursprung    0
 en  0
 kärna   0
 .   0
+
 Först   0
 efter   0
 en  0
@@ -43444,6 +44086,7 @@ på  0
 sjuksköterskors 0
 initiativ   0
 .   0
+
 Kapaciteten 0
 är  0
 mycket  0
@@ -43455,6 +44098,7 @@ regionchef  0
 Monica  PER
 Klingström  PER
 .   0
+
 Det 0
 är  0
 planerat    0
@@ -43463,6 +44107,7 @@ den 0
 21  0
 mars    0
 .   0
+
 Han 0
 låg 0
 och 0
@@ -43496,6 +44141,7 @@ någon   0
 där 0
 ”   0
 .   0
+
 Teknik  0
 ,   0
 förmågan    0
@@ -43505,6 +44151,7 @@ och 0
 snabbhet    0
 förstås 0
 .   0
+
 Kroppar 0
 blir    0
 naknare 0
@@ -43517,6 +44164,7 @@ töms    0
 på  0
 laddning    0
 .   0
+
 Jag 0
 tyckte  0
 inte    0
@@ -43539,6 +44187,7 @@ att 0
 skada   0
 barnet  0
 .   0
+
 På  0
 den 0
 preparerade 0
@@ -43551,6 +44200,7 @@ laviner 0
 säger   0
 han 0
 .   0
+
 Styrelsen   0
 föreslår    0
 att 0
@@ -43575,6 +44225,7 @@ med 0
 i   0
 fjol    0
 .   0
+
 100 0
 procent 0
 av  0
@@ -43591,6 +44242,7 @@ profil  0
 på  0
 sajten  0
 .   0
+
 De  0
 går 0
 ofta    0
@@ -43599,6 +44251,7 @@ ut  0
 i   0
 arbetslöshet    0
 .   0
+
 -   0
 Huvudvärk   0
 bland   0
@@ -43619,6 +44272,7 @@ folkhälso-  ORG
 och ORG
 vårdvetenskap   ORG
 .   0
+
 Då  0
 å   0
 andra   0
@@ -43639,6 +44293,7 @@ förvaltarna 0
 under   0
 förmiddagen 0
 .   0
+
 Lejonkungen MISC
 hyllas  0
 av  0
@@ -43652,6 +44307,7 @@ som 0
 på  0
 stäppen 0
 .   0
+
 Hans    0
 förslag 0
 är  0
@@ -43677,6 +44333,7 @@ procent 0
 av  0
 BNP 0
 .   0
+
 Nu  0
 är  0
 det 0
@@ -43693,6 +44350,7 @@ de  0
 kommunala   0
 skolorna    0
 .   0
+
 Han 0
 har 0
 mänskliga   0
@@ -43723,6 +44381,7 @@ till    0
 ny  0
 vapenlag    0
 .   0
+
 Det 0
 är  0
 Minnesota-skyltar   0
@@ -43734,6 +44393,7 @@ husvagn 0
 på  0
 släp    0
 .   0
+
 Jag 0
 tycker  0
 att 0
@@ -43747,11 +44407,13 @@ förbundskaptenen    0
 Pär PER
 Mårts   PER
 .   0
+
 Då  0
 var 0
 fraktionsstriderna  0
 hårda   0
 .   0
+
 Det 0
 förekommer  0
 att 0
@@ -43775,6 +44437,7 @@ läppförstoring  0
 och 0
 rynkbehandling  0
 .   0
+
 För 0
 tre 0
 veckor  0
@@ -43788,6 +44451,7 @@ de  0
 asiatiska   0
 mästerskapen    0
 .   0
+
 På  0
 nedre   0
 plan    0
@@ -43800,6 +44464,7 @@ kök 0
 och 0
 arbetsrum   0
 .   0
+
 Men 0
 var 0
 fokus   0
@@ -43838,10 +44503,12 @@ bli 0
 en  0
 tryffelravioli  0
 .   0
+
 Tiden   0
 är  0
 oviktig 0
 .   0
+
 Tioårig 0
 statsobligation 0
 :   0
@@ -43851,6 +44518,7 @@ procent 0
 1,97    0
 )   0
 .   0
+
 Tio 0
 år  0
 senare  0
@@ -43866,6 +44534,7 @@ mer 0
 långtgående 0
 samarbete   0
 .   0
+
 Fattar  0
 de  0
 ingenting   0
@@ -43900,6 +44569,7 @@ här 0
 och 0
 nu  0
 .   0
+
 I   0
 och 0
 med 0
@@ -43923,7 +44593,9 @@ efter   0
 mot 0
 Vetlanda    ORG
 .   0
+
 .   0
+
 Det 0
 kan 0
 förvisso    0
@@ -43958,6 +44630,7 @@ och 0
 orange  0
 vävtapeter  0
 .   0
+
 Något   0
 annat   0
 vetenskapligt   0
@@ -43966,6 +44639,7 @@ finns   0
 inte    0
 rapporterat 0
 .   0
+
 Det 0
 citrustäta  0
 området 0

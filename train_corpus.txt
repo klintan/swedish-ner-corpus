@@ -32475,7 +32475,7 @@ kristna	0
 rapporterar	0
 tidningen	0
 Sydney	ORG
-Morning	PRG
+Morning	ORG
 Herald	ORG
 .	0
 
@@ -90274,7 +90274,7 @@ tillväxten  0
 enligt  0
 vd:n.   0
 Assa    ORG
-Abloys  ORG*
+Abloys  ORG
 uttalade    0
 koncernmål  0
 är  0
